@@ -20,8 +20,8 @@ author: Workplace Ninja User Group Finland
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Facebook-ryhmä: "https://www.facebook.com//groups/wpninjasfi"
+  About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
