@@ -1,0 +1,16 @@
+#header-big-imgs {
+  /* Set the size of the div */
+  width: 100%; /* Example: Make the div take full width of its parent */
+  height: 480px; /* Set a fixed height or use 'auto' */
+
+  /* Set the background image */
+  /* Dynamically using the data-img-src-1 attribute from the HTML */
+  /* background-image: url('https://wpninjasfi.github.io/assets/img/Logo-WPNinjasfi-1640x856.jpg'); */
+
+  /* Background scaling and positioning */
+  background-size: cover; /* This will make sure the image covers the div completely */
+  background-position: center; /* Align the background image to the center of the div */
+
+  /* Optional: Ensure the background image does not repeat */
+  background-repeat: no-repeat;
+}
