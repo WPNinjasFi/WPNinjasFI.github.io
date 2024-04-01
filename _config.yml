@@ -53,7 +53,7 @@ round-avatar: true
 social-network-links:
   email: "sensei@wpninjas.fi"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/groups/wpninjasfi
+  facebook: /groups/wpninjasfi
   github: WPNinjasFI
   #twitter: daattali
   #patreon: DeanAttali
@@ -61,7 +61,7 @@ social-network-links:
   #whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/wpninjasfi/
+  linkedin: wpninjasfi
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
