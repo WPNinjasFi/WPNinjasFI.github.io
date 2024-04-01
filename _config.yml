@@ -40,6 +40,7 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
+title-img: /assets/img/Logo_User_Group_Finland.jpg
 
 
 #####################################
@@ -52,7 +53,7 @@ round-avatar: true
 social-network-links:
   email: "sensei@wpninjas.fi"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.linkedin.com/in/wpninjasfi/
+  facebook: https://www.facebook.com/groups/wpninjasfi
   github: WPNinjasFI
   #twitter: daattali
   #patreon: DeanAttali
@@ -60,7 +61,7 @@ social-network-links:
   #whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/wpninjasfi/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -151,7 +152,6 @@ footer-hover-col: "#0085A1"
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/Logo_User_Group_Finland.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
