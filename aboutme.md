@@ -1,16 +1,24 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Workplace Ninja User Group Finland
+subtitle: Microsoft Endpoint Management related Finnish user group
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**Workplace Ninja User Group Finland** is organized in
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- [Workplace Ninja User Group Finland Facebook Group](https://www.linkedin.com/in/wpninjasfi/)
+- Online events
+- In-Person events
 
-What else do you need?
 
-### My story
+### Team behind user group
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Petri Paavola, Microsoft MVP
+- Panu Saukko, Microsoft MVP
+- Sandy Zeng, Microsoft MVP
+- Sami Laiho, Microsoft MVP
+- Pavel Mirochnitchenko
+- Mikko Järvinen
+- Teemu Tiainen
+- Kimmo Pitkänen
+- Hannu Laitinen
