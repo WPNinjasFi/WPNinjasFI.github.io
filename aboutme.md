@@ -1,20 +1,20 @@
 ---
 layout: page
 title: Workplace Ninja User Group Finland
-subtitle: Microsoft Endpoint Management related Finnish user group
+subtitle: Päätelaitehallinnan käyttäjäryhmä Suomen IT-ammattilaisille.
 ---
 
-**Workplace Ninja User Group Finland** is organized in
+**Workplace Ninja User Group Finland** organisoituu mm. seuraavasti
 
 - [Workplace Ninja User Group Finland Facebook Group](https://www.facebook.com/groups/wpninjasfi/)
-- Online events
-- In-Person events
+- Online-tapahtumat
+- In-Person -tapahtumat
 
 
    
-Email: sensei@wpninjas.fi
+Sähköposti: sensei@wpninjas.fi
 
-### Team behind User Group
+### Tiimi käyttäjäryhmän takana
 
 - Petri Paavola, Microsoft MVP
 - Panu Saukko, Microsoft MVP
