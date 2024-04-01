@@ -161,6 +161,10 @@ footer-hover-col: "#0085A1"
 #site-css:
 #  - "/assets/css/custom-styles.css"
 
+# WPNinjasFI custom - Configure for example top picture size to a little bit smaller in height
+site-css:
+  - "/assets/css/WPNinjasFIcustom.css"
+
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
 #  - "/assets/js/custom-script.js"
