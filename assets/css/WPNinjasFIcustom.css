@@ -8,8 +8,8 @@
   /* background-image: url('https://wpninjasfi.github.io/assets/img/Logo-WPNinjasfi-1640x856.jpg'); */
 
   /* Background scaling and positioning */
-  background-size: cover; /* This will make sure the image covers the div completely */
-  background-position: center; /* Align the background image to the center of the div */
+  /* background-size: cover; */ /* This will make sure the image covers the div completely */
+  /* background-position: center; */ /* Align the background image to the center of the div */
 
   /* Optional: Ensure the background image does not repeat */
   background-repeat: no-repeat;
