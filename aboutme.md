@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Workplace Ninja User Group Finland
-subtitle: Päätelaitehallinnan käyttäjäryhmä Suomen IT-ammattilaisille.
+subtitle: Windows- ja päätelaitehallinnan käyttäjäryhmä Suomen IT-ammattilaisille.
 ---
 
 **Workplace Ninja User Group Finland** organisoituu mm. seuraavasti
 
-- [Workplace Ninja User Group Finland Facebook Group](https://www.facebook.com/groups/wpninjasfi/)
-- Online-tapahtumat
+- [Facebook-ryhmä keskusteluille](https://www.facebook.com/groups/wpninjasfi/)
+- Online-tapahtumat (Teams)
 - In-Person -tapahtumat
 
 
