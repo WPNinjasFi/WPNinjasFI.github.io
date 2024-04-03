@@ -20,8 +20,9 @@ author: Workplace Ninja User Group Finland
 ###############################################
 
 navbar-links:
+  Tapahtumat: "tapahtumat"
   Facebook-ryhmä: "https://www.facebook.com//groups/wpninjasfi"
-  About Me: "aboutme"
+  Tietoa meistä: "aboutus"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -41,7 +42,7 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-title-img: /assets/img/WPninjasFI-Navbar_picture.png
+#title-img: /assets/img/WPninjasFI-Navbar_picture.png
 
 
 #####################################
@@ -62,7 +63,7 @@ social-network-links:
   #whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
-  linkedin: wpninjasfi
+  linkedin: company/wpninjasfi
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
