@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workplace Ninja User Group Finland
+title: WPNinjasFI-tiimin esittely
 subtitle: Teemu Tiainen
 thumbnail-img: 	/assets/img/teemu_tiainen.png
 ---
