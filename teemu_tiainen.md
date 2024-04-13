@@ -4,9 +4,11 @@ title: Workplace Ninja User Group Finland
 subtitle: Teemu Tiainen
 thumbnail-img: 	/assets/img/teemu_tiainen.png
 ---
-![Kuva Teemu Tiaisesta](/assets/img/teemu_tiainen.png)
-#Teemu Tiainen
-##__Viestijä_
+<div align="center">
+  <img src="/assets/img/teemu_tiainen.png" width="25%"></img>
+</div>
+<h1 align="center">Teemu Tiainen</h1>
+<h2 align="center"></i>Viestijä</h2>
 Teemu keskittyy WPNinjasFI-yhteisössä erityisesti tiedottamiseen ja viestintään. Hän on motivoitunut luomaan suomalaiseen IT-kenttään yhteisöllisyyttä ja kannustavaa ilmapiiriä, mikä edistää avointa keskustelua ja osaamisen jakamista IT-alan ammattilaisten kesken.
 
 Hänellä on yli 20 vuoden kokemus IT-alalta, mukaan lukien IT-infrastruktuurin palvelut sekä ohjelmisto- ja palveluliiketoiminnan kehittäminen ja johtaminen. Nykyisin Teemu toimii Suomen maajohtajana SoftwareCentralissa, jossa hän keskittyy helpottamaan ja tehostamaan Intunen ja SCCM:n käyttöä.
