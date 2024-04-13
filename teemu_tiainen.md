@@ -3,6 +3,9 @@ layout: page
 title: WPNinjasFI-tiimin esittely
 subtitle: Teemu Tiainen
 thumbnail-img: /assets/img/teemu_tiainen.png
+share-title: #WPNinjasFI - Teemu Tiainen
+share-description: Teemu keskittyy WPNinjasFI-yhteisössä erityisesti tiedottamiseen ja viestintään. Hän on motivoitunut luomaan suomalaiseen IT-kenttään yhteisöllisyyttä ja kannustavaa ilmapiiriä, mikä edistää avointa keskustelua ja osaamisen jakamista IT-alan ammattilaisten kesken.
+share-img:: /assets/img/teemu_tiainen.png
 ---
 <div align="center">
   <img src="/assets/img/teemu_tiainen.png" width="25%">
