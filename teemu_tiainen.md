@@ -2,8 +2,9 @@
 layout: page
 title: Workplace Ninja User Group Finland
 subtitle: Teemu Tiainen
+thumbnail-img: 	/assets/img/teemu_tiainen.png
 ---
-
+![Kuva Teemu Tiaisesta](/assets/img/teemu_tiainen.png)
 #Teemu Tiainen
 ##__Viestijä_
 Teemu keskittyy WPNinjasFI-yhteisössä erityisesti tiedottamiseen ja viestintään. Hän on motivoitunut luomaan suomalaiseen IT-kenttään yhteisöllisyyttä ja kannustavaa ilmapiiriä, mikä edistää avointa keskustelua ja osaamisen jakamista IT-alan ammattilaisten kesken.
