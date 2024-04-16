@@ -20,8 +20,8 @@ Sähköposti: sensei@wpninjas.fi
 - Panu Saukko, Microsoft MVP
 - Sandy Zeng, Microsoft MVP
 - Sami Laiho, Microsoft MVP
-- Pavel Mirochnitchenko
+- [Pavel Mirochnitchenko](pavel_mirochnitchenko.md)
 - Mikko Järvinen
-- Teemu Tiainen
+- [Teemu Tiainen](teemu_tiainen.md)
 - Kimmo Pitkänen
 - Hannu Laitinen
