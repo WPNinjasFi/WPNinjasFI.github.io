@@ -2,13 +2,13 @@
 layout: page
 title: WPNinjasFI-tiimin esittely
 subtitle: Petri Paavola
-thumbnail-img: /assets/img/petri_paavola.png
+thumbnail-img: /assets/img/Petri_Paavola.png
 share-title: #WPNinjasFI - Petri Paavola
 share-description: Petri keskittyy WPNinjasFI-yhteisössä erityisesti keskusteluihin päätelaitehallinnan teemoista ja jakaa aktiivisesti asiantuntemustaan aihealueeseen liittyen. Hän on kokenut puhuja ja kouluttaja, ja on aiemmin vastannut Aalto-yliopiston työasemapalveluista sekä teknisestä toteutuksesta että palvelutuotannosta.
-share-img:: /assets/img/petri_paavola.png
+share-img:: /assets/img/Petri_Paavola.png
 ---
 <div align="center">
-  <img src="/assets/img/petri_paavola.png" width="25%">
+  <img src="/assets/img/Petri_Paavola.png" width="25%">
 </div>
 Petri keskittyy WPNinjasFI-yhteisössä erityisesti keskusteluihin päätelaitehallinnan teemoista ja jakaa aktiivisesti asiantuntemustaan aihealueeseen liittyen. Hän on kokenut puhuja ja kouluttaja, ja on aiemmin vastannut Aalto-yliopiston työasemapalveluista sekä teknisestä toteutuksesta että palvelutuotannosta.
 
