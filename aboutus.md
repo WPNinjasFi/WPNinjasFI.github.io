@@ -17,7 +17,7 @@ Sähköposti: sensei@wpninjas.fi
 ### Tiimi käyttäjäryhmän takana
 
 - [Petri Paavola, Microsoft MVP](petri_paavola.md)
-- Panu Saukko, Microsoft MVP
+- [Panu Saukko, Microsoft MVP](panu_saukko.md)
 - Sandy Zeng, Microsoft MVP
 - Sami Laiho, Microsoft MVP
 - [Pavel Mirochnitchenko](pavel_mirochnitchenko.md)
