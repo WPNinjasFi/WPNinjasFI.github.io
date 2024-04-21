@@ -12,7 +12,7 @@ share-img:: /assets/img/Sami_Laiho.png
 </div>
 Sami Laiho on #WPNinjasFI-yhteisössä Windows-käyttöjärjestelmien ja tietoturvan lipunkantaja. Hän on yksi maailman johtavista asiantuntijoista alallaan.
 
-Sami on toiminut JÄRJESTELMÄNVALVOJAN hommissa vuodesta 1996 lähtien ja keskittynyt erityisesti Windows-käyttöjärjestelmien ongelmanratkaisuun, hallintaan ja tietoturvaan. Hän on erikoistunut muun muassa seuraaviin aihealueisiin: Least Privilege, Application Control and Privileged Access Workstation. Sami on myös kysytty ja aktiivinen puhuja, joka on saanut tunnustusta useissa kansainvälisissä konferensseissa parhaana puhujana.
+Sami on toiminut _järjestelmänvalvojan_ hommissa vuodesta 1996 lähtien ja keskittynyt erityisesti Windows-käyttöjärjestelmien ongelmanratkaisuun, hallintaan ja tietoturvaan. Hän on erikoistunut muun muassa seuraaviin aihealueisiin: Least Privilege, Application Control and Privileged Access Workstation. Sami on myös kysytty ja aktiivinen puhuja, joka on saanut tunnustusta useissa kansainvälisissä konferensseissa parhaana puhujana.
 
 "IT muuttaa maailmaa nopeammin kuin koskaan, ja minulle on tärkeää pysyä tämän kehityksen kärjessä. Vuoden mittaan kertyy paljon matkapäiviä, kun käyn puhumassa konferensseissa ja tekemässä erilaisia konsultointikeikkoja asiakkaille. Olen kuitenkin iloinen siitä, että voin jakaa tietoa ja auttaa organisaatioita pysymään kehityksen kyydissä," Sami toteaa.
 
