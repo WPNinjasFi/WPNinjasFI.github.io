@@ -16,6 +16,6 @@ Sami on toiminut _järjestelmänvalvojan_ hommissa vuodesta 1996 lähtien ja kes
 
 "IT muuttaa maailmaa nopeammin kuin koskaan, ja minulle on tärkeää pysyä tämän kehityksen kärjessä. Vuoden mittaan kertyy paljon matkapäiviä, kun käyn puhumassa konferensseissa ja tekemässä erilaisia konsultointikeikkoja asiakkaille. Olen kuitenkin iloinen siitä, että voin jakaa tietoa ja auttaa organisaatioita pysymään kehityksen kyydissä," Sami toteaa.
 
-Sami on ollut Microsoft Most Valuable Person (MVP) vuodesta 2011 alkaen. Tsekkaa Samin MVP-profiili <a href="https://mvp.microsoft.com/en-US/mvp/profile/cbb970c0-3c9a-e411-93f2-9cb65495d3c4" target="_blank">täältä</a>.
+Sami on ollut Microsoft Most Valuable Professional (MVP) vuodesta 2011 alkaen. Tsekkaa Samin MVP-profiili <a href="https://mvp.microsoft.com/en-US/mvp/profile/cbb970c0-3c9a-e411-93f2-9cb65495d3c4" target="_blank">täältä</a>.
 
 Sami kutsuu kaikki verkostoitumaan ja jakamaan tietotaitoa IT-alan kehityksen edistämiseksi. Tutustu Samin <a href="https://www.linkedin.com/in/samilaiho/" target="_blank">Linkkari-profiiliin</a> ja verkostoidu hänen kanssaan.
