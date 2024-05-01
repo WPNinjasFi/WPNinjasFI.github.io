@@ -10,7 +10,7 @@ share-img:: /assets/img/Sandy_Zeng.png
 <div align="center">
   <img src="/assets/img/Sandy_Zeng.png" width="25%">
 </div>
-Sandy on WPNinjasFI:n taustatiimin aktiivinen jäsen ja säännöllinen puhuja niin Workplace User Groupin tapahtumissa, kuin muissakin tapahtumissa ympäri maailmaa, joissa hän jakaa asiantuntemustaan muun muassa enterprise mobilityn saralta.
+Sandy on WPNinjasFI:n taustatiimin aktiivinen jäsen ja säännöllinen puhuja niin Workplace Ninja User Group Finlandin tapahtumissa, kuin muissakin tapahtumissa ympäri maailmaa, joissa hän jakaa asiantuntemustaan muun muassa enterprise mobilityn saralta.
 
 Hän on kokenut pilviarkkitehti ja työskentelee CloudWayssa, jossa hän työskentelee erityisesti modernien pilvipohjaisten Microsoft-teknologioiden parissa. Hänellä on vuosien kokemus IT-alalta, ja hän on saanut tunnustusta esimerkiksi Microsoft MVP -statuksen kautta. Sandy toimii myös sisällöntuottajana <a href="https://msendpointmgr.com/" target="_blank">MSEndpointMgr-yhteisössä</a>.
 
