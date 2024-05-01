@@ -18,7 +18,7 @@ Sähköposti: sensei@wpninjas.fi
 
 - [Petri Paavola, Microsoft MVP](petri_paavola.md)
 - [Panu Saukko, Microsoft MVP](panu_saukko.md)
-- Sandy Zeng, Microsoft MVP
+- [Sandy Zeng, Microsoft MVP](sandy_zeng.md)
 - [Sami Laiho, Microsoft MVP](sami_laiho.md)
 - [Pavel Mirochnitchenko](pavel_mirochnitchenko.md)
 - Mikko Järvinen
