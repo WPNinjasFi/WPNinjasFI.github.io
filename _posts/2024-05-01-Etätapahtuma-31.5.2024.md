@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seuraava online-tapaaminen
+title: Etätapahtuma
 subtitle: Perjantaina 31.5.2024 klo 09.00 - 11.15
 ---
 **Linkki julkaistaan myöhemmin** 
