@@ -9,6 +9,7 @@ subtitle: Etä- ja in-person -tapahtumat
 **Aiheina**
 - Compliance policyt ja conditional access
 - Universal Windows Driver
+
 <a href="https://wpninjas.fi/2024-05-01-Et%C3%A4tapahtuma-31.5.2024">Tapahtumasivulle</a>
 
 # Edelliset tapahtumat
