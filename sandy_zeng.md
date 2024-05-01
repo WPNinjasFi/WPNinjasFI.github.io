@@ -5,7 +5,7 @@ subtitle: Sandy Zeng
 thumbnail-img: /assets/img/Sandy_Zeng.png
 share-title: #WPNinjasFI - Sandy Zeng
 share-description: 
-share-img:: /assets/img/Sami_Laiho.png
+share-img:: /assets/img/Sandy_Zeng.png
 ---
 <div align="center">
   <img src="/assets/img/Sandy_Zeng.png" width="25%">
