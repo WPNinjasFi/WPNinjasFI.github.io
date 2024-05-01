@@ -2,6 +2,11 @@
 layout: post
 title: WPNinjasFI-yhteisön ensimmäinen tapahtuma oli huima menestys
 subtitle: Reilusti yli 100 osallistujaa ja hienoa palautetta
+#cover-img: /assets/img/path.jpg
+##thumbnail-img: /assets/img/thumb.png
+#share-img: /assets/img/path.jpg
+tags: [tapahtuma]
+author: Teemu Tiainen
 ---
 Perjantaina 26.4. koettiin historiallinen hetki, kun Workplace Ninja User Group Finland järjesti ensimmäisen etätapahtumansa. Tapahtumassa oli yhtäaikaisesti linjoilla lähes 130 alan ammattilaista. Tämä on selvä merkki siitä, että päätelaitehallinnan yhteisölle on tilausta.
 
