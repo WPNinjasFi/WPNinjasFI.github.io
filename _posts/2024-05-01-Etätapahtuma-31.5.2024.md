@@ -8,7 +8,7 @@ subtitle: Perjantaina 31.5.2024 klo 09.00 - 11.15
 - 09.00 - Avaus
 - 09.15 - Compliance policyt ja conditional access, Jami Susijärvi
 - 10.00 - Tauko
-- 10.15 - Universal Windows Driver, Mikko Järvinen
+- 10.15 - (Universal) Windows Driver tavallisen ylläpitäjän näkökulmasta, Mikko Järvinen
 - 11.00 - Ask 🥷 Anything 
 
 ## Compliance policyt ja conditional access
@@ -19,11 +19,9 @@ Jami on kerryttänyt osaamistaan Microsoft-inran parissa jo yli 20 vuotta. Viime
   <img src="/assets/img/Jami.png" width="25%">
 </div>
 
-## Universal Windows Driver
-
-**Mikko Järvinen**, MS-teknologioiden pitkän linjan asiantuntija kertoo esityksessään Universal Windows Driverista (UWD). UWD on Microsoftin  ratkaisu, jonka avulla kehittäjät voivat luoda yhteensopivia ajureita, jotka toimivat kaikkien Windows 10 ja Windows 11 laitteiden kanssa. Tämä lähestymistapa ei ainoastaan yksinkertaista ajurien kehitystä, vaan myös parantaa niiden luotettavuutta ja turvallisuutta.
-
-Mikon esityksessä keskitytään UWD:n teknisiin yksityiskohtiin ja siihen, kuinka se hyödyntää Windowsin arkkitehtuuria ajurien yhteensopivuuden varmistamiseksi. Lisäksi kuulijat saavat arvokasta tietoa siitä, miten UWD voi helpottaa ajureiden hallintaa ja päivityksiä monimuotoisissa laiteympäristöissä. Tämä aihe on erityisen ajankohtainen, sillä yhä useammat laitevalmistajat ja ohjelmistokehittäjät siirtyvät käyttämään Universal Windows Platformia (UWP). Mikon asiantuntemus tarjoaa osallistujille kattavaun kuvan siitä, miten UWD voi muuttaa ajurikehityksen kenttää ja edistää alustojen välistä yhteentoimivuutta.
+## (Universal) Windows Driver tavallisen ylläpitäjän näkökulmasta
+**Mikko Järvinen**, MS-teknologioiden pitkän linjan asiantuntija kertoo puheenvuorossaan, miksi Windowsin ajurit ja inf-tiedostot ovat ikävällä tavalla tuttuja jokaiselle Windows-asennuksia ja -ylläpitoa tehneelle. Esityksessä käydään läpi muun muassa miten (Universal) Windows Driver -ajurit eroavat perinteisistä ajureista, mikä on HSA eli Hardware Support App ja miten Microsoft Store ja ohjelmistojakelu liityy tähän kaikkeen.
+Lisäksi kuulemme, miten tämä koko rakennelma hajosi Windows 10:ssä olleen bugin takia ja miten tavallinen ylläpitäjä onnistui lopulta vakuuttamaan Microsoftin bugin olemassaolosta ja miksi hänen piti lopuksi mennä suihkuun.
 
 ## Rekisteröidy mukaan 👇
 Rekkaa ittes mukaan <a href="https://events.teams.microsoft.com/event/d4f50223-b794-4d66-9f8d-6e40c59bfd95@84dc9e35-ee96-4291-9726-fad8009fb935" target="_blank">täältä</a>, niin varmistat paikkasi ja saat kalenterikutsun sähköpostiisi.
