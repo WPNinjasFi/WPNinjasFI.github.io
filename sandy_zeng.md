@@ -3,8 +3,8 @@ layout: page
 title: WPNinjasFI-tiimin esittely
 subtitle: Sandy Zeng
 thumbnail-img: /assets/img/Sandy_Zeng.png
-share-title: #WPNinjasFI - Sandy Zeng
-share-description: 
+share-title: WPNinjasFI - Sandy Zeng
+share-description: Sandy on WPNinjasFI:n taustatiimin aktiivinen jäsen ja säännöllinen puhuja niin Workplace Ninja User Group Finlandin tapahtumissa, kuin muissakin tapahtumissa ympäri maailmaa, joissa hän jakaa asiantuntemustaan muun muassa enterprise mobilityn saralta.
 share-img:: /assets/img/Sandy_Zeng.png
 ---
 <div align="center">
