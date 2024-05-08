@@ -14,9 +14,9 @@ Rekisteröidy <a href="https://events.teams.microsoft.com/event/d4f50223-b794-4d
 - 11.00 - Ask 🥷 Anything 
 
 ## Compliance policyt ja conditional access
-Erikoisvierailijatähti, **Jami Susijärvi**, MCT ja teknologiakonsultti Tietokeskukselta kertoo meille vuosien mittaan oppimiaan asioita, miten nykyään kannattaa lähteä toteuttamaan compliance policyja hyödyntäen myös kaikkein uusimpia ominaisuuksia. Jami käyä läpi muun muassa Intunen oletusasetusten kiristystä niin Intunella kuin myös Conditional Access -politiikkojen avulla.
+Erikoisvierailijatähti, **Jami Susijärvi**, MCT ja teknologiakonsultti Tietokeskukselta kertoo meille vuosien mittaan oppimiaan asioita, miten nykyään kannattaa lähteä toteuttamaan compliance policyja hyödyntäen myös kaikkein uusimpia ominaisuuksia. Jami käy läpi muun muassa Intunen oletusasetusten kiristystä niin Intunella kuin myös Conditional Access -politiikkojen avulla.
 
-Jami on kerryttänyt osaamistaan Microsoft-inran parissa jo yli 20 vuotta. Viimeisinä vuosina aika on kulunut erilaisten asiakkaiden infraa kehittäen lähinnä M365:sen, Azuren ja tietoturvan parissa. Vapaa-aikaa Jamille menee retkeilyn ja sulautettujen järjestelmien parissa.
+Jami on kerryttänyt osaamistaan Microsoft-infran parissa jo yli 20 vuotta. Viimeisinä vuosina aika on kulunut erilaisten asiakkaiden infraa kehittäen lähinnä M365:sen, Azuren ja tietoturvan parissa. Vapaa-aikaa Jamille menee retkeilyn ja sulautettujen järjestelmien parissa.
 <div align="left">
   <img src="/assets/img/Jami.png" width="25%">
 </div>
