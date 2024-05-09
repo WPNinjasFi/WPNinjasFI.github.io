@@ -14,4 +14,4 @@ Kimmo on IT-alan moniosaaja, joka on toiminut niin system adminin, kuin kaupalli
 
 Kimmo on kova kalamies - ainakin juttujensa perusteella. Joka tapauksessa hän nauttii luonnosta ja rakastaa Saabeja. Kimmo on tehnyt myös vuosiakausien uran junnulätkän hyväksi monenlaisissa eri rooleissa.
 
-Hän on huumorimiehiä, jonka lennokkaat jutut tunnetaan myös maailmalla ja niistä ovat päässeet nauttimaan ihmiset monissa kansainvälisissä IT-alan tapahtumissa, joissa hänet usein nähdään notkumassa kahvikuppi kädessään. Sosiaalisena kaverina Kimmo kutsuu sinut verkostoitumaan hänen kanssaa vähintäänkin <a href="https://www.linkedin.com/in/kimmo-pitk%C3%A4nen-36497930/" target=_blank">Linkkarissa</a>.
+Hän on huumorimiehiä, jonka lennokkaat jutut tunnetaan myös maailmalla ja niistä ovat päässeet nauttimaan ihmiset monissa kansainvälisissä IT-alan tapahtumissa, joissa hänet usein nähdään notkumassa kahvikuppi kädessään. Sosiaalisena kaverina Kimmo kutsuu sinut verkostoitumaan hänen kanssaa vähintäänkin <a href="https://www.linkedin.com/in/kimmo-pitk%C3%A4nen-36497930/" target="_blank">Linkkarissa</a>.
