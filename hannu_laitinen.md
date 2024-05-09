@@ -15,3 +15,5 @@ Laitehallinta-Laitisenakin tunnettu Hannu edustaa WPNinjasFI-yhteisössä kaupal
 Nykyään Hanski työskentelee Atealla ratkaisumyyjänä vastaten Microsoft-asiantuntijapalveluista liittyen muun muassa Intuneen, Sharepointiin, Copilotiin ja Defender-tuoteperheeseen.
 
 Vapaa-ajallaan Hanski mökkeilee sekä urheilee monipuolisesti eri alustoilla, kuten veralla, jäällä ja penkillä.
+
+Hannu verkostoituu mielellään uusien ihmisten kanssa, joten käy heittämässä hänelle Linkkari-kutsu <a href="https://www.linkedin.com/in/hannu-laitinen-078654109/" target="_blan">täällä</a>.
