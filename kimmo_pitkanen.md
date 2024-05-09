@@ -10,7 +10,7 @@ share-img:: /assets/img/Kimmo_Pitkanen.png
 <div align="center">
   <img src="/assets/img/Kimmo_Pitkanen.png" width="25%">
 </div>
-Kimmo on IT-alan moniosaaja, joka on toiminut niin system adminin, kuin kaupallisemmankin puolen rooleissa. WPNinjasFI-yhteisöön Kimmo tuo laaja-alaista näkemystään kaikkien hyödyksi. Nykyään hän työskentelee [Sami Laihon](sami_laiho.md) tutkaparina Adminize-firmassa.
+Kimmo on IT-alan moniosaaja, joka on toiminut niin system adminin, kuin kaupallisemmankin puolen rooleissa. WPNinjasFI-yhteisöön Kimmo tuo laaja-alaista näkemystään kaikkien hyödyksi. Nykyään hän työskentelee <a href="https://wpninjas.fi/sami_laiho/">Sami Laihon</a> tutkaparina Adminize-firmassa.
 
 Kimmo on kova kalamies - ainakin juttujensa perusteella. Joka tapauksessa hän nauttii luonnosta ja rakastaa Saabeja. Kimmo on tehnyt myös ansiokkaan vuosiakausien uran junnulätkän hyväksi monenlaisissa eri rooleissa.
 
