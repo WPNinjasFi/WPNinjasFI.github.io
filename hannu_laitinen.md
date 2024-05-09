@@ -4,7 +4,7 @@ title: WPNinjasFI-tiimin esittely
 subtitle: Hannu Laitinen
 thumbnail-img: /assets/img/Hannu_Laitinen.png
 share-title: #WPNinjasFI - Hannu Laitinen
-share-description: 
+share-description: Laitehallinta-Laitisenakin tunnettu Hannu edustaa WPNinjasFI-yhteisössä kaupallisempaa osastoa, vaikka asiantuntemustakin piisaa etenkin päätelaitehallinnan tiimoilta. 
 share-img:: /assets/img/Hannu_Laitinen.png
 ---
 <div align="center">
