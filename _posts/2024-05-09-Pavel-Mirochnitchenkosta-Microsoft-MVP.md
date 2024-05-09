@@ -3,8 +3,8 @@ layout: post
 title: Pavel Mirochnitchenkosta Microsoft MVP
 subtitle: Hurjasti onnea Pavel!
 #cover-img: /assets/img/path.jpg
-##thumbnail-img: /assets/img/thumb.png
-#share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/Pavel_Mirochnitchenko.png
+share-img: /assets/img/Pavel_Mirochnitchenko.png
 tags: [ihmiset]
 author: Teemu Tiainen
 ---
