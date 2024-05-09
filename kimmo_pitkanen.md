@@ -4,7 +4,7 @@ title: WPNinjasFI-tiimin esittely
 subtitle: Kimmo Pitkänen
 thumbnail-img: /assets/img/Kimmo_Pitkanen.png
 share-title: #WPNinjasFI - Kimmo Pitkänen
-share-description: 
+share-description: Kimmo on IT-alan moniosaaja, joka on toiminut niin system adminin, kuin kaupallisemmankin puolen rooleissa. WPNinjasFI-yhteisössä Kimmo tuo laaja-alaista näkemystään kaikkien saataville.
 share-img:: /assets/img/Kimmo_Pitkanen.png
 ---
 <div align="center">
