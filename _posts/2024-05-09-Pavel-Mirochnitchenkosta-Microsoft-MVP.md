@@ -17,10 +17,10 @@ Vuonna 2020 hänen työskentelynsä Intunen parissa syveni, ja hän alkoi kehitt
 
 Nämä omat ratkaisut innoittivat Pavelia aloittamaan bloggaamisen, mikä puolestaan tasoitti tietä uusille julkisille esiintymisille isommilla estradeilla. Vuosi sitten hänen ensimmäinen hakemuksensa MVP-arvonimeksi ei vielä johtanut haluttuun lopputulokseen, mutta tänä vuonna tilanne muuttui. Muun muassa YouTubeen-tallennettu esitys saattoi olla yksi ratkaiseva tekijä tittelin saamiseen. Pavel panosti myös itse hakemukseen aiempaa enemmän
 
-Nyt kun hän on virallisesti MVP, edessä on työläs mutta mielenkiintoinen matka arvonimen ylläpitämiseksi. Hän odottaa innolla uusia verkostoitumismahdollisuuksia ja kansainvälisiä tapaamisia, joissa voi jakaa osaamistaan ja oppia muilta alan asiantuntijoilta.
+Nyt kun hän on virallisesti MVP, edessä on työläs mutta mielenkiintoinen matka arvonimen ylläpitämiseksi. Hän odottaa innolla uusia verkostoitumismahdollisuuksia ja kansainvälisiä tapaamisia, joissa voi jakaa osaamistaan ja oppia muilta alan asiantuntijoilta
 
 Hurjasti onnea Pavel! WPNinjasFI-yhteisölle on kunnia, kun olet osa yhteisön taustatiimiä.
 
-Käy kurkkaamassa Pavelin <a href=" https://www.linkedin.com/in/pavel-mirochnitchenko-a4711457/" target="_blank"Linkkari-profiili</a> ja ota hänet seuraukseen.
+Käy kurkkaamassa Pavelin <a href=" https://www.linkedin.com/in/pavel-mirochnitchenko-a4711457/" target="_blank">Linkkari-profiili</a> ja ota hänet seuraukseen.
 
-Käy myös lukaisemassa Pavelin blogiartikkelit <a href="https://www.linkedin.com/in/pavel-mirochnitchenko-a4711457/recent-activity/articles/" target"_blank_">täältä</a>.
+Käy myös lukaisemassa Pavelin blogiartikkelit <a href="https://www.linkedin.com/in/pavel-mirochnitchenko-a4711457/recent-activity/articles/" target="_blank">täältä</a>.
