@@ -23,5 +23,5 @@ Sähköposti: sensei@wpninjas.fi
 - [Pavel Mirochnitchenko, Microsoft MVP](pavel_mirochnitchenko.md)
 - Mikko Järvinen
 - [Teemu Tiainen](teemu_tiainen.md)
-- Kimmo Pitkänen
+- [Kimmo Pitkänen](kimmo_pitkanen.md)
 - [Hannu Laitinen](hannu_laitinen.md)
