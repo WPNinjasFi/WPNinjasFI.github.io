@@ -36,6 +36,6 @@ WPNinjasFI-yhteisön jäsenet ovat tervetulleita pitämään esityksiään yhtei
 - Copilot for Intune
 
 ## Ilmoittaudu puhujaksi
-Jos olet kiinnostanut pitämään puheenvuoron yhteisön tapahtumassa, täytä alla mainittu lomake ja olemme yhteydessä sinuun sopiaksemme sopivan ajankohdan esityksellesi. Esitykset voivat olla use case -juttuja, teknologiapläjäyksiä, työskentelytapoihin liittyviä tai mitä vaan keksitkään. Jos esityksesi sisältö ei vielä ole täysin kirkaus, älä huoli, sillä me autamme mieluusti sisällön tarkentamisen kanssa.
+Jos olet kiinnostanut pitämään puheenvuoron yhteisön tapahtumassa, täytä alla mainittu lomake ja olemme sinuun yhteydessä sopiaksemme tarkemmista yksityiskohdista sekä löytääksemme sopivan ajankohdan esityksellesi. Esitykset voivat olla use case -juttuja, teknologiapläjäyksiä, työskentelytapoihin liittyviä tai mitä vaan keksitkään. Jos esityksesi sisältö ei vielä ole täysin kirkaus, älä huoli, sillä me autamme mieluusti sisällön tarkentamisen kanssa.
 
 Ilmoittaudu puhujaksi <a href="https://forms.office.com/e/RDTtKNdxz5" target="_blank">tästä</a>.
