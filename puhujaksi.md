@@ -2,6 +2,10 @@
 layout: page
 title: Puhujaksi WPNinjasFI-tapahtumiin?
 #subtitle: 
+thumbnail-img: /assets/img/Kimmo_Pitkanen.png
+share-title: Puhujaksi WPNinjasFI-yhteisön tapahtumaan?
+share-description: Yhteisön jäsenet ovat enemmän kuin tervetulleita pitämään esityksiä tapahtumissamme. Ilmoittaudu rohkeasti mukaan!
+share-img:: 
 --- 
 # Tervetuloa puhumaan!
 WPNinjasFI-yhteisön jäsenet ovat tervetulleita pitämään esityksiään yhteisön tapahtumiin, kunhan esityksien sisältö liittyy käyttäjäryhmän ratkaisu- tai teknologia-alueisiin:
