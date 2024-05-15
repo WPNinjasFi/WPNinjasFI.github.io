@@ -8,7 +8,9 @@ share-description: Yhteisön jäsenet ovat enemmän kuin tervetulleita pitämä�
 share-img: /assets/img/n1-color.png
 --- 
 # Tervetuloa puhumaan!
-WPNinjasFI-yhteisön jäsenet ovat tervetulleita pitämään esityksiään yhteisön tapahtumiin, kunhan esityksien sisältö liittyy käyttäjäryhmän ratkaisu- tai teknologia-alueisiin:
+WPNinjasFI-yhteisön jäsenet ovat tervetulleita pitämään esityksiään yhteisön tapahtumiin, kunhan esityksien sisältö liittyy käyttäjäryhmän ratkaisu- tai teknologia-alueisiin (kts. alla).
+
+Ilmoittaudu puhujaksi <a href="https://forms.office.com/e/RDTtKNdxz5" target="_blank">tästä</a>.
 
 ## Ratkaisualueet
 - Työasemien hallinta
