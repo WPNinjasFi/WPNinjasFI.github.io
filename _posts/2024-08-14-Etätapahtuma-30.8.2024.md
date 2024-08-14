@@ -16,19 +16,19 @@ Rekisteröidy <a href="https://events.teams.microsoft.com/event/60a19c69-5ca8-45
 ## Katsaus ajankohtaisiin asioihin
 Microsoft MVP:t **Petri Paavola** ja **Panu Saukko** johdattavat meidät läpi yhteisön kiinnostuksen kohteiden kannalta tärkeimmistä viimeaikaisista tapahtumista. Puheenvuorossa käsitellään mm. seuraavia teemoja:
 
-Intune Device Preparation ("Autopilot v2") -tilannekatsaus: 
+**Intune Device Preparation ("Autopilot v2") -tilannekatsaus:** 
 Missä mennään Intunen uuden Autopilotin kanssa ja mitä se tarkoittaa organisaatioille?
 
-CrowdStrike BSOD -keissin jälkipuinti: 
+**CrowdStrike BSOD -keissin jälkipuinti:** 
 Mitä CrowdStriken aiheuttamassa Blue Screen of Death Outagessa oikeastaan tapahtui ja mitä voimme oppia siitä?
 
-BlackLotus UEFI -haavoittuvuus: 
+**BlackLotus UEFI -haavoittuvuus:**
 Päivitetty tilannekatsaus vakavan UEFI-haavoittuvuuden tiimoilta.
 
-Intunen uudet ja tulevat ominaisuudet: 
+**Intunen uudet ja tulevat ominaisuudet:**
 Pikainen katsaus Intunen viimeisimpiin ja tuleviin ominaisuuksiin, mukaan lukien Device Inventory -pohjainen kohdennus.
 
-Windows ja ARM: 
+**Windows ja ARM:**
 Katsaus Windowsin ja ARM-arkkitehtuurin nykytilanteeseen ja tulevaisuuden näkymiin.
 
 ## Windows-sovellushallinnan nykytilanne
