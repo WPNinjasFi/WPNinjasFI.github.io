@@ -35,7 +35,7 @@ Katsaus Windowsin ja ARM-arkkitehtuurin nykytilanteeseen ja tulevaisuuden näkym
 **Aku Suonpää**, sovelluspaketoinnin ja ylipäätään hardcore softahallinnassa ryvettynyt veteraani kertoo puheenvuorossaan, miten viimeisen kymmenen vuoden aikana Windows-sovellushallintaan on tullut uusia teknologioita, jotka mahdollistavat erilaisia taktiikoita organisaatioiden sovellusten elinkaarenhallintaan. Esityksessä käydään läpi erilaisia teknologioita jakelun ja paketoinnin saralla sekä niiden vahvuuksia ja heikkouksia. Lisäksi otetaan pieni katsaus historiaan, jotta voimme ymmärtää, miten tähän päivään on päästy.
 
 <div align="left">
-  <img src="/assets/img/Aku_Suonpaa.png" width="25%">
+  <img src="/assets/img/Aku_Suonpaa.jpeg" width="25%">
 </div>
 
 Liity mukaan, päivitä tietosi ja osallistu keskusteluun asiantuntijoiden johdolla. Tämä on tilaisuus, jota ei kannata jättää väliin!
