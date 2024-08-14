@@ -40,5 +40,5 @@ Katsaus Windowsin ja ARM-arkkitehtuurin nykytilanteeseen ja tulevaisuuden näkym
 
 Liity mukaan, päivitä tietosi ja osallistu keskusteluun asiantuntijoiden johdolla. Tämä on tilaisuus, jota ei kannata jättää väliin!
 
-##Rekisteröidy mukaan 👇
+## Rekisteröidy mukaan 👇
 Rekkaa ittes mukaan <a href="https://events.teams.microsoft.com/event/60a19c69-5ca8-4514-b96d-27c25f439129@84dc9e35-ee96-4291-9726-fad8009fb935" target="_blank">täältä</a>, niin varmistat paikkasi ja saat kalenterikutsun sähköpostiisi.
