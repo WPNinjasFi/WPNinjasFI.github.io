@@ -11,7 +11,7 @@ subtitle: Etä- ja live-tapahtumat
 - Windows-sovellushallinnan nykytilanne - Aku Suonpää
 - ANA (Ask 🥷 Anything)
 
-<a href="https://wpninjas.fi/2024-8-14-Et%C3%A4tapahtuma-30.8.2024">Tapahtumasivulle</a>
+<a href="https://wpninjas.fi/2024-08-14-Etätapahtuma-30.8.2024">Tapahtumasivulle</a>
 
 # Edelliset tapahtumat
 **Perjantaina 31.5.2024 klo 09.00 - 11.15**  
