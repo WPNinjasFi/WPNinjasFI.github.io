@@ -9,7 +9,7 @@ share-img: /assets/img/n1-color.png
 --- 
 # Sponsoreiden hankinta
 ## Sponsoreiden Identifiointi
-Sponsoriksi haetaan yrityksiä, jotka tarjoavat tuotteita tai palveluja päätelaitehallintaan, virtualisointiin, tietoturvaan tai muihin yhteisön aihealueisiin liittyen. ja joilla on kiinnostusta tavoittaa kyseisten aihealueiden parissa toimivia suomalaisia asiantuntijoita ja päättäjiä.
+Sponsoriksi haetaan yrityksiä, jotka tarjoavat tuotteita tai palveluja päätelaitehallintaan, virtualisointiin, tietoturvaan tai muihin <a href="https://wpninjas.fi/puhujaksi/">yhteisön aihealueisiin liittyen</a>. ja joilla on kiinnostusta tavoittaa kyseisten aihealueiden parissa toimivia suomalaisia asiantuntijoita ja päättäjiä.
 
 ## Sponsoriksi hakeutuminen
 Yritykset voivat hakea sponsoriksi täyttämällä <a href="https://" target="_blank">sponsorointilomakkeen</a>.
