@@ -13,16 +13,21 @@ Sponsoriksi haetaan yrityksiä, jotka tarjoavat tuotteita tai palveluja päätel
 
 ## Sponsoriksi hakeutuminen
 Yritykset voivat hakea sponsoriksi täyttämällä <a href="https://" target="_blank">sponsorointilomakkeen</a>.
+
 Lomakkeessa kysytään tietoja yrityksestä, kiinnostavista sponsoripaketista jne.
 
 ## Sponsorien Valinta
 Sponsoreiden valinnassa otetaan huomioon sponsorin soveltuvuus tapahtuman teemaan ja kohderyhmään.
+
 Sponsorit, jotka läsnäolollaan ja tarjoamallaan sisällöllä tuottavat merkittävää lisäarvoa tapahtumalle ja sen osallistujille ovat etusijalla sponsorivalintaan tehtäessä.
+
 Jos sponsoreita on ylitarjontaa, pyritään varmistamaan monipuolisuus ja tasapuolisuus tapahtumassa. Vältetään samojen yritysten toistuvaa sponsorointia samassa tapahtumassa tai lyhyen ajan sisällä.
+
 Workplace Ninja User Group Finlandin taustatiimi valitsee viime kädessä sponsorit huomioiden tämän politiikan kriteeristön. Taustatiimi arvioi ja hyväksyy sponsorit, jotta tapahtumat säilyvät monipuolisina ja kiinnostavina.
 
 # Sponsoreiden Kustannukset
 Kustannukset voivat vaihdella tapahtuman koon, sijainnin ja sponsoroinnin tason mukaan. Sponsorien kustannukset per palvelupaketti määritellään tilaisuuden tarpeiden mukaan. Lähtökohtaisesta sponsorit osallistuvat tapahtuman järjestelykustannuksiin, jota vastaan he saavat oikeuden tiettyyn sponsoripakettiin.
+
 Kustannukset voivat esimerkinomaisesti muodostua esim. seuraavista komponenteista:
 - Tapahtuman tilavuokra
 - Aamiaistarjoilun kustantaminen
@@ -31,9 +36,11 @@ Kustannukset voivat esimerkinomaisesti muodostua esim. seuraavista komponenteist
 - Illanvieton virvokkeiden kustantaminen
 
 # Muuta
-- Workplace Ninja User Group Finlandin taustatiimi pidättää oikeuden päättää sponsoroista ja sponsoroinnin yksityiskohdista.
-- Sponsoriesitysten sisällöt sekä ständikonfiguraatiot sovitaan aina tapahtumakohtaisesti erikseen sponsorin sekä Workplace Ninja User Group Finland -taustatiimin välillä.
-- Workplace Ninja User Group Finland ei osallistu mahdollisten arvontojen järjestämiseen, vaan sponsoritahon tulee vastata arvonnan muodollisuuksista, viranomaisvaatimuksista jne. omatoimisesti.
+Workplace Ninja User Group Finlandin taustatiimi pidättää oikeuden päättää sponsoroista ja sponsoroinnin yksityiskohdista.
+
+Sponsoriesitysten sisällöt sekä ständikonfiguraatiot sovitaan aina tapahtumakohtaisesti erikseen sponsorin sekä Workplace Ninja User Group Finland -taustatiimin välillä.
+
+Workplace Ninja User Group Finland ei osallistu mahdollisten arvontojen järjestämiseen, vaan sponsoritahon tulee vastata arvonnan muodollisuuksista, viranomaisvaatimuksista jne. omatoimisesti.
 
 # Ilmoittaudu puhujaksi
 Jos olet kiinnostanut sponsoroinnista yhteisön tapahtumassa, täytä alla mainittu lomake ja olemme sinuun yhteydessä sopiaksemme tarkemmista yksityiskohdista.
