@@ -4,7 +4,7 @@ title: Sponsoriksi WPNinjasFI-tapahtumiin?
 #subtitle: 
 thumbnail-img: /assets/img/n1-color.png
 share-title: Sponsoriksi WPNinjasFI-yhteisön tapahtumaan?
-share-description: Haemme tilaisuuksimme sponsoreita takaamaan onnistuneet puitteet yhteisön jäsenille ja sponsoreille mahdollisuuden verkostoitumiseen. Jos edustamasi organisaatio on kiinnostunut sponsoroinnista, voit ilmaista halukkuutenne tämän sivun kautta.
+share-description: Haemme tilaisuuksiimme sponsoreita takaamaan onnistuneet puitteet yhteisön jäsenille ja samalla tarjoamme sponsoreille mahdollisuuden verkostoitumiseen. Jos edustamasi organisaatio on kiinnostunut sponsoroinnista, voit ilmaista halukkuutenne tämän sivun kautta.
 share-img: /assets/img/n1-color.png
 --- 
 # Sponsoreiden hankinta
