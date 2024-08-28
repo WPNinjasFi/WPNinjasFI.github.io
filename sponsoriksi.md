@@ -7,8 +7,8 @@ share-title: Sponsoriksi WPNinjasFI-yhteisön tapahtumaan?
 share-description: Haemme tilaisuuksiimme sponsoreita takaamaan onnistuneet puitteet yhteisön jäsenille ja samalla tarjoamme sponsoreille mahdollisuuden verkostoitumiseen. Jos edustamasi organisaatio on kiinnostunut sponsoroinnista, voit ilmaista halukkuutenne tämän sivun kautta.
 share-img: /assets/img/n1-color.png
 --- 
-# Sponsoreiden hankinta
-## Sponsoreiden Identifiointi
+# Sponsorien hankinta
+## Sponsorien Identifiointi
 Sponsoriksi haetaan yrityksiä, jotka tarjoavat tuotteita tai palveluja päätelaitehallintaan, virtualisointiin, tietoturvaan tai muihin <a href="https://wpninjas.fi/puhujaksi/">yhteisön aihealueisiin liittyen</a>. ja joilla on kiinnostusta tavoittaa kyseisten aihealueiden parissa toimivia suomalaisia asiantuntijoita ja päättäjiä.
 
 ## Sponsoriksi hakeutuminen
@@ -17,7 +17,7 @@ Yritykset voivat hakea sponsoriksi täyttämällä <a href="https://" target="_b
 Lomakkeessa kysytään tietoja yrityksestä, kiinnostavista sponsoripaketista jne.
 
 ## Sponsorien Valinta
-Sponsoreiden valinnassa otetaan huomioon sponsorin soveltuvuus tapahtuman teemaan ja kohderyhmään.
+Sponsorien valinnassa otetaan huomioon sponsorin soveltuvuus tapahtuman teemaan ja kohderyhmään.
 
 Sponsorit, jotka läsnäolollaan ja tarjoamallaan sisällöllä tuottavat merkittävää lisäarvoa tapahtumalle ja sen osallistujille ovat etusijalla sponsorivalintaan tehtäessä.
 
@@ -25,7 +25,7 @@ Jos sponsoreita on ylitarjontaa, pyritään varmistamaan monipuolisuus ja tasapu
 
 Workplace Ninja User Group Finlandin taustatiimi valitsee viime kädessä sponsorit huomioiden tämän politiikan kriteeristön. Taustatiimi arvioi ja hyväksyy sponsorit, jotta tapahtumat säilyvät monipuolisina ja kiinnostavina.
 
-# Sponsoreiden Kustannukset
+# Sponsorien Kustannukset
 Kustannukset voivat vaihdella tapahtuman koon, sijainnin ja sponsoroinnin tason mukaan. Sponsorien kustannukset per palvelupaketti määritellään tilaisuuden tarpeiden mukaan. Lähtökohtaisesta sponsorit osallistuvat tapahtuman järjestelykustannuksiin, jota vastaan he saavat oikeuden tiettyyn sponsoripakettiin.
 
 Kustannukset voivat esimerkinomaisesti muodostua esim. seuraavista komponenteista:
@@ -36,13 +36,13 @@ Kustannukset voivat esimerkinomaisesti muodostua esim. seuraavista komponenteist
 - Illanvieton virvokkeiden kustantaminen
 
 # Muuta
-Workplace Ninja User Group Finlandin taustatiimi pidättää oikeuden päättää sponsoroista ja sponsoroinnin yksityiskohdista.
+Workplace Ninja User Group Finlandin taustatiimi pidättää oikeuden päättää sponsoreista ja sponsoroinnin yksityiskohdista.
 
 Sponsoriesitysten sisällöt sekä ständikonfiguraatiot sovitaan aina tapahtumakohtaisesti erikseen sponsorin sekä Workplace Ninja User Group Finland -taustatiimin välillä.
 
 Workplace Ninja User Group Finland ei osallistu mahdollisten arvontojen järjestämiseen, vaan sponsoritahon tulee vastata arvonnan muodollisuuksista, viranomaisvaatimuksista jne. omatoimisesti.
 
-# Ilmoittaudu puhujaksi
+# Ilmoittaudu sponsoriksi
 Jos olet kiinnostanut sponsoroinnista yhteisön tapahtumassa, täytä alla mainittu lomake ja olemme sinuun yhteydessä sopiaksemme tarkemmista yksityiskohdista.
 
 Ilmoittaudu puhujaksi <a href="https://" target="_blank">tästä</a>.
