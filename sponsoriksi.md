@@ -34,8 +34,8 @@ Kustannukset voivat esimerkinomaisesti muodostua esim. seuraavista komponenteist
 - Workplace Ninja User Group Finlandin taustatiimi pidättää oikeuden päättää sponsoroista ja sponsoroinnin yksityiskohdista.
 - Sponsoriesitysten sisällöt sekä ständikonfiguraatiot sovitaan aina tapahtumakohtaisesti erikseen sponsorin sekä Workplace Ninja User Group Finland -taustatiimin välillä.
 - Workplace Ninja User Group Finland ei osallistu mahdollisten arvontojen järjestämiseen, vaan sponsoritahon tulee vastata arvonnan muodollisuuksista, viranomaisvaatimuksista jne. omatoimisesti.
-- 
-## Ilmoittaudu puhujaksi
+
+# Ilmoittaudu puhujaksi
 Jos olet kiinnostanut sponsoroinnista yhteisön tapahtumassa, täytä alla mainittu lomake ja olemme sinuun yhteydessä sopiaksemme tarkemmista yksityiskohdista.
 
 Ilmoittaudu puhujaksi <a href="https://" target="_blank">tästä</a>.
