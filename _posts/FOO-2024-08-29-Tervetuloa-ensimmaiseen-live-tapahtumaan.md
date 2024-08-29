@@ -8,6 +8,8 @@ Hei kaikki 🥷-ystävät!!!
 
 Odotettu hetki on koittanut! Workplace Ninja User Group Finland järjestää yhteisön jäsenille ensimmäisen live-tapahtumansa, ja haluamme kutsua sinut mukaan. Tämä on loistava tilaisuus tavata alalla työskenteleviä tuttuja, tutustua uusiin ihmisiin, oppia uutta mielenkiintoisista puheenvuoroista ja kaikki ilmaiseksi.
 
+Tapahtumaan on <b>rajattu määrä paikkoja</b>, ja ne täytetään rekisteröitymisjärjestyksessä, joten ole nopea!
+
 # Tapahtuman aikataulu
 Voit osallistua haluamaasi osioihin oman aikataulusi ja mielenkiinnon kohteidesi mukaan. Haluaisimme kuitenkin saada tiedon siitä, mihin osioihin olet tulossa mukaan jo siinä vaiheessa, kun rekisteröidyt, jotta osaamme varautua eri osioihin osallistujamäärän huomioiden.
 
