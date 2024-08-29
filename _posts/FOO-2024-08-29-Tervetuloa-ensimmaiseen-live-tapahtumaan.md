@@ -4,7 +4,7 @@ title: Ensimmäinen WPNinjasFI-live-tapahtuma
 subtitle: Torstaina 24.10.2024 klo 12.00 alkaen
 --- 
 # Tervetuloa Workplace Ninja User Group Finlandin ensimmäiseen Live-tapahtumaan!
-Hei kaikki 🥷-ystävät!
+Hei kaikki 🥷-ystävät!!!
 
 Odotettu hetki on koittanut! Workplace Ninja User Group Finland järjestää yhteisön jäsenille ensimmäisen live-tapahtumansa, ja haluamme kutsua sinut mukaan. Tämä on loistava tilaisuus tavata alalla työskenteleviä tuttuja, tutustua uusiin ihmisiin, oppia uutta mielenkiintoisista puheenvuoroista ja kaikki ilmaiseksi.
 
