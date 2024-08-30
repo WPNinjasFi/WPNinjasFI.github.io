@@ -12,9 +12,7 @@ share-img: /assets/img/n1-color.png
 Sponsoriksi haetaan yrityksiä, jotka tarjoavat tuotteita tai palveluja päätelaitehallintaan, virtualisointiin, tietoturvaan tai muihin <a href="https://wpninjas.fi/puhujaksi/">yhteisön aihealueisiin liittyen</a>. ja joilla on kiinnostusta tavoittaa kyseisten aihealueiden parissa toimivia suomalaisia asiantuntijoita ja päättäjiä.
 
 ## Sponsoriksi hakeutuminen
-Yritykset voivat hakea sponsoriksi täyttämällä <a href="https://" target="_blank">sponsorointilomakkeen</a>.
-
-Lomakkeessa kysytään tietoja yrityksestä, kiinnostavista sponsoripaketista jne.
+Yritykset voivat hakea sponsoriksi täyttämällä <a href="https://forms.office.com/e/tTJTiXbXYR" target="_blank">sponsorointilomakkeen</a>.
 
 ## Sponsorien Valinta
 Sponsorien valinnassa otetaan huomioon sponsorin soveltuvuus tapahtuman teemaan ja kohderyhmään.
@@ -45,4 +43,4 @@ Workplace Ninja User Group Finland ei osallistu mahdollisten arvontojen järjest
 # Ilmoittaudu sponsoriksi
 Jos olet kiinnostanut sponsoroinnista yhteisön tapahtumassa, täytä alla mainittu lomake ja olemme sinuun yhteydessä sopiaksemme tarkemmista yksityiskohdista.
 
-Ilmoittaudu puhujaksi <a href="https://" target="_blank">tästä</a>.
+Hakeudu sponsoriksi <a href="https://forms.office.com/e/tTJTiXbXYR" target="_blank">tästä</a>.
