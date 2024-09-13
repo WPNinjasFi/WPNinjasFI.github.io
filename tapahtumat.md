@@ -10,7 +10,7 @@ subtitle: Etä- ja live-tapahtumat
 - Azure Virtual Desktop ja Windows 365 -ympäristöjen kuulumiset - Mikko Lindström, Microsoft
 - ANA (Ask 🥷 Anything)
 
-[Tapahtumasivulle](../tapahtumat/20240927/etatapahtuma-27092024.md)
+[Tapahtumasivulle](../tapahtumat/20240927/etatapahtuma-27092024)
 
 ## Live-sessio #1 - to  24.10.2024 klo 10 alkaen
 **Paikka: Telia, Tripla, Pasila, Helsinki**<br/>
