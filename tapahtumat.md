@@ -12,7 +12,7 @@ subtitle: Etä- ja live-tapahtumat
 
 Tapahtumasivun linkki tulossa
 
-**Livesessio #1 - torstaina  24.10.2024 klo 10 alkaen**
+**Live-sessio #1 - torstaina  24.10.2024 klo 10 alkaen**
 **Paikka: Telia, Tripla, Pasila, Helsinki**
 **Alustava ohjelma**
 - 10-12 Vapaamuotoinen keskusteluosio (Mietitään vielä tarkempaa toteutusta)
