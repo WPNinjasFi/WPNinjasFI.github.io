@@ -4,7 +4,7 @@ title: Tapahtumat
 subtitle: Etä- ja live-tapahtumat
 ---
 # Seuraavat tapahtumat
-**Etäsessio #4 - perjantaina 27.9.2024 klo 09.00 - 11.15**  
+## Etäsessio #4 - perjantaina 27.9.2024 klo 09.00 - 11.15 
 **Aiheina mm.**
 - Workplace Ninja Summitin tunnelmia ja kuumimmat uutiset tuoreeltaan - Kimmo Pitkänen ja Panu Saukko
 - Azure Virtual Desktop ja Windows 365 -ympäristöjen kuulumiset - Mikko Lindström, Microsoft
@@ -12,8 +12,8 @@ subtitle: Etä- ja live-tapahtumat
 
 Tapahtumasivun linkki tulossa
 
-**Live-sessio #1 - torstaina  24.10.2024 klo 10 alkaen**
-**Paikka: Telia, Tripla, Pasila, Helsinki**
+## Live-sessio #1 - torstaina  24.10.2024 klo 10 alkaen
+**Paikka: Telia, Tripla, Pasila, Helsinki**<br/>
 **Alustava ohjelma**
 - 10-12 Vapaamuotoinen keskusteluosio (Mietitään vielä tarkempaa toteutusta)
 - 12-13 Lounas ja sponssipuheenvuoro #1
@@ -27,7 +27,7 @@ Tilaisuutta <u>ei striimata</u>. Paikkoja on rajoitetusti ja ne täytetään ilm
 Tapahtumasivun linkki tulossa
 
 # Edelliset tapahtumat
-**Etäsessio #3 - perjantaina 30.8.2024 klo 09.00 - 11.15**  
+## Etäsessio #3 - perjantaina 30.8.2024 klo 09.00 - 11.15
 **Aiheina mm.**
 - Katsaus kesän tapahtumiin WPNinjasFI-aihealueisiin liittyen - Petri Paavola ja Panu Saukko
 - Windows-sovellushallinnan nykytilanne - Aku Suonpää
@@ -35,13 +35,13 @@ Tapahtumasivun linkki tulossa
 
 <a href="https://wpninjas.fi/2024-08-14-Etätapahtuma-30.8.2024">Tapahtumasivulle</a>
 
-**Etäsessio #2 - perjantaina 31.5.2024 klo 09.00 - 11.15**  
+## Etäsessio #2 - perjantaina 31.5.2024 klo 09.00 - 11.15
 **Aiheina mm.**
 - Compliance policyt ja conditional access
 - Universal Windows Driver
 - ANA (Ask 🥷 Anything)
 
-**Etäsessio #1 - perjantaina 26.4.2024 klo 09.00 - 11.15**  
+## Etäsessio #1 - perjantaina 26.4.2024 klo 09.00 - 11.15
 **Aiheina mm.**
 - Uuden Workplace Ninja User Group Finland -käyttäjäryhmän esittely
 - "AI-hupailua" – DEMO-luonteinen esitys eri AI-tuotteiden hyödyntämisestä IT-asiantuntijan arjessa / Petri Paavola, MVP
