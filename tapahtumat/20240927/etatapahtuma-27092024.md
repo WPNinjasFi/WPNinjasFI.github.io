@@ -18,7 +18,7 @@ Rekisteröidy [tästä](https://events.teams.microsoft.com/event/daa273f2-90ea-4
 **Mikko Lindström**, Microsoftilta tulee kertomaan viimeisimmät kuulumiset Azure Virtual Desktop ja Windows 365 -maailmasta.
 
 <div align="left">
-  <img src="/assets/img/mikko_lindstrom" width="25%">
+  <img src="/assets/img/mikko_lindstrom.png" width="25%">
 </div>
 
 Liity mukaan, päivitä tietosi ja osallistu keskusteluun asiantuntijoiden johdolla. Tämä on tilaisuus, jota ei kannata jättää väliin!
