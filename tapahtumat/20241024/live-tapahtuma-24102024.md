@@ -7,7 +7,7 @@ share-title: WPNinjasFI-live-tapahtuma #1 - 24.10.2024
 share-description: Tule mukaan ekaan WPNinjasFI-live-tapahtumaan! Luvassa asiapitoisia puheenvuoroja, sapuskaa ja verkostoitumista rennoissa merkeissä.
 share-img: /assets/img/n1-color.png
 --- 
-# Tervetuloa Workplace Ninja User Group Finlandin ensimmäiseen Live-tapahtumaan!
+# Tervetuloa ensimmäiseen Workplace Ninja User Group Finlandin live-tapahtumaan!
 Hei kaikki 🥷-ystävät!!!
 
 Odotettu hetki on koittanut! Workplace Ninja User Group Finland järjestää yhteisön jäsenille ensimmäisen live-tapahtumansa, ja haluamme kutsua sinut mukaan. Tämä on loistava tilaisuus tavata alalla työskenteleviä tuttuja, tutustua uusiin ihmisiin ja oppia uutta mielenkiintoisista puheenvuoroista. Kaikki tietysti ilmaiseksi.
