@@ -15,10 +15,10 @@ Odotettu hetki on koittanut! Workplace Ninja User Group Finland järjestää yht
 
 Tapahtumaan on <b>rajattu määrä paikkoja</b>, ja ne täytetään rekisteröitymisjärjestyksessä, joten ole nopea!
 
-# Tapahtumapaikka
-Telia, Tripla, Pasila, Helsinki
-
-Tarkemmat saapumisohjeet lisätään tähän myöhemmin.
+# Tapahtumapaikka ja -aika
+- Aika: Torstaina 24.10.2024 klo 10.00 alkaen
+- Paikka: Telia, Tripla, Pasila, Helsinki
+- Tarkemmat saapumisohjeet lisätään tähän myöhemmin.
 
 # Tapahtuman aikataulu
 Voit osallistua haluamiisi osioihin oman aikataulusi ja mielenkiinnon kohteidesi mukaan. Haluaisimme kuitenkin saada tiedon siitä, mihin osioihin olet tulossa mukaan jo siinä vaiheessa, kun rekisteröidyt, jotta osaamme varautua eri osioihin osallistujamäärän huomioiden.
