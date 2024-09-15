@@ -39,14 +39,9 @@ Iltapäivän ohjelma klo 130 eteenpäin koostuu asiantuntijapuheenvuoroista, joi
 Asiantuntijapuheenvuorojen jälkeen on aika rentoutua ja verkostoitua. Illan ohjelmassa on luvassa pientä purtavaa, jonka yhdeydessä viimeiset sponsoriesitykset sekä virvokkeita ja hyvää meininkiä. Tämä on mahtava tilaisuus tutustua uusiin ihmisiin, jakaa ajatuksia ja nauttia hyvästä seurasta.
 
 # Miksi kannattaa tulla?
-**Verkostoidu**
-Tapaa alan asiantuntijoita, kollegoja ja muita innostuneita ninjoja.
-
-**Inspiroidu**
-Kuuntele asiantuntijapuheenvuoroja ja saa uusia näkökulmia.
-
-**Nauti**
-Herkullinen lounas ja päivällinen, virvokkeita ja rento ilmapiiri.
+- **Verkostoidu:** Tapaa alan asiantuntijoita, kollegoja ja muita innostuneita ninjoja.
+- **Inspiroidu:** Kuuntele asiantuntijapuheenvuoroja ja saa uusia näkökulmia.
+- **Nauti:** Herkullinen lounas ja päivällinen, virvokkeita ja rento ilmapiiri.
 
 # Ilmoittautuminen
 Tapahtuma on täysin ilmainen. Jos haluat osallistua vain asiaohjelmaan (12.00-16.00), sekin on mahdollista, mutta kerrothan siitä meille ilmoittautuessasi.
