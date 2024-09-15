@@ -29,7 +29,7 @@ ANA (Ask 🥷s Anything)-osiossa ajatuksena on keskustella vapaamuotoisesti poru
 Jatkamme päivää lounaan merkeissä, jossa saat vatsasi täyteen ja saat kuulla sponsorimme mielenkiintoisia ajatuksia.
 
 ## 13.00 – 16.00
-Iltapäivän ohjelma klo 130 eteenpäin koostuu asiantuntijapuheenvuoroista, joissa pääset kuulemaan ajankohtaisia ja mielenkiintoisia esityksiä.
+Iltapäivän ohjelma klo 13 eteenpäin koostuu asiantuntijapuheenvuoroista, joissa pääset kuulemaan ajankohtaisia ja mielenkiintoisia esityksiä.
 
 - 13.00 – Windowsin automatisointi Intunea ja Powershelliä hyödyntäen, **Pavel Mirochnitchenko**
 - 14.00 – Ultimate super troubleshooting tool, **Petri Paavola**
