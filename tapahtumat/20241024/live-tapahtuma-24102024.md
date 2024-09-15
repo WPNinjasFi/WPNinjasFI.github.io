@@ -3,8 +3,8 @@ layout: page
 title: Ensimmäinen WPNinjasFI-live-tapahtuma
 subtitle: Torstaina 24.10.2024 klo 10.00 alkaen
 thumbnail-img: /assets/img/n1-color.png
-share-title: WPNinjasFI-live-tapahtuma #1 - 24.10.2024
-share-description: Tule mukaan ekaan WPNinjasFI-live-tapahtumaan! Luvassa asiapitoisia puheenvuoroja, sapuskaa ja verkostoitumista rennoissa merkeissä.
+share-title: "WPNinjasFI-live-tapahtuma #1 - 24.10.2024"
+share-description: "Tule mukaan ekaan WPNinjasFI-live-tapahtumaan! Luvassa asiapitoisia puheenvuoroja, sapuskaa ja verkostoitumista rennoissa merkeissä."
 cover-img: /assets/img/wpninjasfi-live.png
 share-img: /assets/img/wpninjasfi-live.png
 --- 
