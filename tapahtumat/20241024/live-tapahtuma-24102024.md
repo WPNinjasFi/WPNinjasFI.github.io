@@ -31,17 +31,17 @@ Jatkamme päivää lounaan merkeissä, jossa saat vatsasi täyteen ja saat kuull
 ## 13.00 – 16.00
 Iltapäivän ohjelma klo 13 eteenpäin koostuu asiantuntijapuheenvuoroista, joissa pääset kuulemaan ajankohtaisia ja mielenkiintoisia esityksiä.
 
-- 13.00 – Windowsin automatisointi Intunea ja Powershelliä hyödyntäen, **Pavel Mirochnitchenko**
-- 14.00 – Ultimate super troubleshooting tool, **Petri Paavola**
+- 13.00 – Windowsin automatisointi Intunea ja Powershelliä hyödyntäen, **Pavel Mirochnitchenko**, Microsoft MVP
+- 14.00 – Ultimate super troubleshooting tool, **Petri Paavola**, Microsoft MVP
 - 15.00 – Puheenvuoro yhteisön toiveaiheesta
 
 ## 16.00 – 20.00
 Asiantuntijapuheenvuorojen jälkeen on aika rentoutua ja verkostoitua. Illan ohjelmassa on luvassa pientä purtavaa, jonka yhdeydessä viimeiset sponsoriesitykset sekä virvokkeita ja hyvää meininkiä. Tämä on mahtava tilaisuus tutustua uusiin ihmisiin, jakaa ajatuksia ja nauttia hyvästä seurasta.
 
 # Miksi kannattaa tulla?
-- **Verkostoidu:** Tapaa alan asiantuntijoita, kollegoja ja muita innostuneita ninjoja.
-- **Inspiroidu:** Kuuntele asiantuntijapuheenvuoroja ja saa uusia näkökulmia.
-- **Nauti:** Herkullinen lounas ja päivällinen, virvokkeita ja rento ilmapiiri.
+- **Verkostoidu**: Tapaa alan asiantuntijoita, kollegoja ja muita innostuneita ninjoja.
+- **Inspiroidu**: Kuuntele asiantuntijapuheenvuoroja ja saa uusia näkökulmia.
+- **Nauti**: Herkullinen lounas ja päivällinen, virvokkeita ja rento ilmapiiri.
 
 # Ilmoittautuminen
 Tapahtuma on täysin ilmainen. Jos haluat osallistua vain asiaohjelmaan (12.00-16.00), sekin on mahdollista, mutta kerrothan siitä meille ilmoittautuessasi.
