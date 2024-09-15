@@ -2,6 +2,10 @@
 layout: page
 title: Ensimmäinen WPNinjasFI-live-tapahtuma
 subtitle: Torstaina 24.10.2024 klo 10.00 alkaen
+thumbnail-img: /assets/img/n1-color.png
+share-title: WPNinjasFI-live-tapahtuma #1 - 24.10.2024
+share-description: Tule mukaan ekaan WPNinjasFI-live-tapahtumaan! Luvassa asiapitoisia puheenvuoroja, sapuskaa ja verkostoitumista rennoissa merkeissä.
+share-img: /assets/img/n1-color.png
 --- 
 # Tervetuloa Workplace Ninja User Group Finlandin ensimmäiseen Live-tapahtumaan!
 Hei kaikki 🥷-ystävät!!!
@@ -16,7 +20,7 @@ Telia, Tripla, Pasila, Helsinki
 Tarkemmat saapumisohjeet lisätään tähän myöhemmin.
 
 # Tapahtuman aikataulu
-Voit osallistua haluamaasi osioihin oman aikataulusi ja mielenkiinnon kohteidesi mukaan. Haluaisimme kuitenkin saada tiedon siitä, mihin osioihin olet tulossa mukaan jo siinä vaiheessa, kun rekisteröidyt, jotta osaamme varautua eri osioihin osallistujamäärän huomioiden.
+Voit osallistua haluamiisi osioihin oman aikataulusi ja mielenkiinnon kohteidesi mukaan. Haluaisimme kuitenkin saada tiedon siitä, mihin osioihin olet tulossa mukaan jo siinä vaiheessa, kun rekisteröidyt, jotta osaamme varautua eri osioihin osallistujamäärän huomioiden.
 
 ## 10.00 – 12.00
 ANA (Ask 🥷s Anything)-osiossa ajatuksena on keskustella vapaamuotoisesti porukkaa kiinnostavista teemoista. Osion toteutustapaa tarkennetaan vielä.
