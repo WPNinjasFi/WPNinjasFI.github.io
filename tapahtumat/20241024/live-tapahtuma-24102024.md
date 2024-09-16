@@ -18,7 +18,7 @@ Tapahtumaan on <b>rajattu määrä paikkoja</b>, ja ne täytetään rekisteröit
 # Tapahtumapaikka ja -aika
 - Aika: Torstaina 24.10.2024 klo 10.00 alkaen
 - Paikka: Telia, Tripla, Pasila, Helsinki
-- Tarkemmat saapumisohjeet lisätään tähän myöhemmin.
+- Saapuminen: Telia, Hub (Triplan 4. kerros, Telian pääovi, juna-aseman Subway-tiskiä vastapäätä)
 
 # Tapahtuman aikataulu
 Voit osallistua haluamiisi osioihin oman aikataulusi ja mielenkiinnon kohteidesi mukaan. Haluaisimme kuitenkin saada tiedon siitä, mihin osioihin olet tulossa mukaan jo siinä vaiheessa, kun rekisteröidyt, jotta osaamme varautua eri osioihin osallistujamäärän huomioiden.
