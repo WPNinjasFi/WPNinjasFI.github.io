@@ -24,7 +24,7 @@ subtitle: Etä- ja live-tapahtumat
 
 Tilaisuutta <u>ei striimata</u>. Paikkoja on rajoitetusti ja ne täytetään ilmoittautumisjärjestyksessä.
 
-Tapahtumasivun linkki tulossa
+[Tapahtumasivulle](../tapahtumat/20241024/live-tapahtuma-24102024)
 
 # Edelliset tapahtumat
 ## Etäsessio #3 - pe 30.8.2024 klo 09.00 - 11.15
