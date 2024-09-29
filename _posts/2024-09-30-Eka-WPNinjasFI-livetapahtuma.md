@@ -14,7 +14,7 @@ Nyt räpsähtää: Workplace Ninja User Group Finland järjestää ensimmäisen 
 
 Päivän ohjelmassa on muun muassa ANA (Ask Ninjas Anything) -keskustelu, jossa voit esittää kysymyksiä ja jakaa ajatuksia muiden osallistujien kanssa. Luvassa on myös inspiroivia esityksiä Microsoft MVP -asiantuntijoilta sekä rentoa illanviettoa hyvän ruoan ja juoman parissa. Tapahtuma on täysin ilmainen, mutta paikkoja on rajoitetusti, joten toimi nopeasti!
 
-Lisätietoja tapahtumasta ja rekisteröitymisen löydät [(tapahtumasivulta)](../tapahtumat/20241024/live-tapahtuma-24102024). Ilmoittaudu mukaan ja varmista paikkasi syksyn kiinnostavimmassa tapahtumassa!
+Lisätietoja tapahtumasta ja rekisteröitymisen löydät [tapahtumasivulta](../tapahtumat/20241024/live-tapahtuma-24102024). Ilmoittaudu mukaan ja varmista paikkasi syksyn kiinnostavimmassa tapahtumassa!
 
 Terveisin,
 WPNinjasFI-taustatiimin porukka
