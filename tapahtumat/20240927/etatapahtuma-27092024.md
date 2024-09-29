@@ -11,7 +11,7 @@ Rekisteröidy [tästä](https://events.teams.microsoft.com/event/daa273f2-90ea-4
 
 # Tapahtuman sisältö
 ## Agenda
-- Workplace Ninja Summitin tunnelmia ja kuumimmat uutiset tuoreeltaan - Kimmo Pitkänen ja Panu Saukko - [Lataa matskut](../tapahtumat/20240927/etatapahtuma-27092024.md/20240927-workplace-ninja-summit-terveiset.pdf)
+- Workplace Ninja Summitin tunnelmia ja kuumimmat uutiset tuoreeltaan - Kimmo Pitkänen ja Panu Saukko - [Lataa matskut](../tapahtumat/20240927/20240927-workplace-ninja-summit-terveiset.pdf)
 - Azure Virtual Desktop ja Windows 365 -ympäristöjen kuulumiset - Mikko Lindström, Microsoft - Matskut tulossa ladattavaksi
 - ANA (Ask 🥷 Anything)
 
