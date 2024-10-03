@@ -7,8 +7,6 @@ share-title: WPNinjasFI-etätapahtuma 27.9.2024
 share-description: Tule kuuntelemaan kuumimmat uutiset Workplace Ninja Summitista! Lisäksi on luvassa kattava katsaus Azure Virtual Desktop ja Windows 365 -maailmaan. 
 share-img: /assets/img/n1-color.png
 --- 
-Rekisteröidy [tästä](https://events.teams.microsoft.com/event/daa273f2-90ea-48dc-87a3-8d16fa92f042@84dc9e35-ee96-4291-9726-fad8009fb935){:target="_blank"}.
-
 # Tapahtuman sisältö
 ## Agenda
 - Workplace Ninja Summitin tunnelmia ja kuumimmat uutiset tuoreeltaan - Kimmo Pitkänen ja Panu Saukko - [Lataa matskut](../tapahtumat/20240927/20240927-workplace-ninja-summit-terveiset.pdf){:target="_blank"}
