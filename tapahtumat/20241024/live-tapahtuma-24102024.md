@@ -8,6 +8,8 @@ share-description: "Tule mukaan ekaan WPNinjasFI-live-tapahtumaan! Luvassa asiap
 cover-img: /assets/img/wpninjasfi-live.png
 share-img: /assets/img/wpninjasfi-live.png
 --- 
+Huomaathan, että ilmoittautuminen tapahtumaan sulkeutuu torstain 17.10. päätteeksi.
+
 # Tervetuloa ensimmäiseen Workplace Ninja User Group Finlandin live-tapahtumaan!
 Hei kaikki 🥷-ystävät!!!
 
