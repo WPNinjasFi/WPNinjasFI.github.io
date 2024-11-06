@@ -34,9 +34,9 @@ Jatkamme päivää lounaan merkeissä, jossa saat vatsasi täyteen ja saat kuull
 ## 13.00 – 16.00
 Iltapäivän ohjelma klo 13 eteenpäin koostuu asiantuntijapuheenvuoroista, joissa pääset kuulemaan ajankohtaisia ja mielenkiintoisia esityksiä.
 
-- 13.00 – Windowsin automatisointi Intunea ja Powershelliä hyödyntäen, **Pavel Mirochnitchenko**, Microsoft MVP
-- 14.00 – Ultimate super troubleshooting tool, **Petri Paavola**, Microsoft MVP
-- 15.00 – Puheenvuoro yhteisön toiveaiheesta
+- 13.00 – Windowsin automatisointi Intunea ja Powershelliä hyödyntäen, **Pavel Mirochnitchenko**, Microsoft MVP [Lataa matskut](/tapahtumat/20241024/20241024-Windowsin-automatisointi-Powershelliä-ja-Intunea-hyödyntäen-Pavel.pdf){:target="_blank"}
+- 14.00 – Ultimate super troubleshooting tool, **Petri Paavola**, Microsoft MVP [Lataa matskut](/tapahtumat/20241024/20241024-Windows-ja-Intune-Community-and-Troubleshooting-Tools-Petri.pdf){:target="_blank"}
+- 15.00 – Puheenvuoro yhteisön toiveaiheesta - interaktiivinen skriptaussessio [Lataa matskut](/tapahtumat/20241024/20241024-Intune-Powershell-scripting-Petri.pdf){:target="_blank"}
 
 ## 16.00 – 20.00
 Asiantuntijapuheenvuorojen jälkeen on aika rentoutua ja verkostoitua. Illan ohjelmassa on luvassa pientä purtavaa, jonka yhdeydessä viimeiset sponsoriesitykset sekä virvokkeita ja hyvää meininkiä. Tämä on mahtava tilaisuus tutustua uusiin ihmisiin, jakaa ajatuksia ja nauttia hyvästä seurasta.
