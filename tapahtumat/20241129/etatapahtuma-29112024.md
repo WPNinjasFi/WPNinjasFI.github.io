@@ -9,7 +9,7 @@ share-img: /assets/img/n1-color.png
 --- 
 # Tapahtuman sisältö
 ## Agenda
-- Microsoft Igniten tärkeimmät tuoteuutiset tuoreeltaan - WPNinjsaFI-taustaryhmä ja Mikko Lindström, Microsoft 
+- Microsoft Igniten tärkeimmät tuoteuutiset tuoreeltaan - WPNinjasFI-taustaryhmä ja Mikko Lindström, Microsoft 
 - Kuinka PAW tehdään kunnollisesti - myös cloud-only ympäristössä - Sami Laiho
 - ANA (Ask 🥷 Anything)
 
