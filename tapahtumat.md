@@ -6,11 +6,11 @@ subtitle: Etä- ja live-tapahtumat
 # Seuraavat tapahtumat
 ## Etäsessio #4 - pe 27.9.2024 klo 09.00 - 11.15 
 **Aiheina mm.**
-- Workplace Ninja Summitin tunnelmia ja kuumimmat uutiset tuoreeltaan - Kimmo Pitkänen ja Panu Saukko
-- Azure Virtual Desktop ja Windows 365 -ympäristöjen kuulumiset - Mikko Lindström, Microsoft
+- Microsoft Igniten tärkeimmät tuoteuutiset tuoreeltaan - WPNinjsaFI-taustaryhmä ja Mikko Lindström, Microsoft 
+- Kuinka PAW tehdään kunnollisesti - myös cloud-only ympäristössä - Sami Laiho
 - ANA (Ask 🥷 Anything)
 
-[Tapahtumasivulle](../tapahtumat/20240927/etatapahtuma-27092024)
+[Tapahtumasivulle](../tapahtumat/20241129/etatapahtuma-29112024)
 
 # Edelliset tapahtumat
 ## Live-sessio #1 - to  24.10.2024 klo 10 alkaen
