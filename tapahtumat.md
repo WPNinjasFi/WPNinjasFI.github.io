@@ -4,7 +4,7 @@ title: Tapahtumat
 subtitle: Etä- ja live-tapahtumat
 ---
 # Seuraavat tapahtumat
-## Etäsessio #5 - pe 27.9.2024 klo 09.00 - 11.15 
+## Etäsessio #5 - pe 29.11.2024 klo 09.00 - 11.15 
 **Aiheina mm.**
 - Microsoft Igniten tärkeimmät tuoteuutiset tuoreeltaan - WPNinjsaFI-taustaryhmä ja Mikko Lindström, Microsoft 
 - Kuinka PAW tehdään kunnollisesti - myös cloud-only ympäristössä - Sami Laiho
