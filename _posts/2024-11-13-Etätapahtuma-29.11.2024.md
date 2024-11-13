@@ -15,4 +15,4 @@ share-img: /assets/img/wpninjasfi-live.png
 - 10.05 - Kuinka PAW tehdään kunnollisesti - myös cloud-only ympäristössä - Sami Laiho
 - ANA (Ask 🥷 Anything)
 
-Ilmoittaudu ja tsekkaa tarkemmat tiedot (tapahtumasivulta)[../tapahtumat/20241129/etatapahtuma-29112024]
+Ilmoittaudu ja tsekkaa tarkemmat tiedot [tapahtumasivulta](../tapahtumat/20241129/etatapahtuma-29112024)
