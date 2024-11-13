@@ -13,6 +13,6 @@ share-img: /assets/img/wpninjasfi-live.png
 - 9.15 - Microsoft Igniten tärkeimmät tuoteuutiset tuoreeltaan - WPNinjasFI-taustaryhmä ja Mikko Lindström, Microsoft
 - 10.00 - Tauko
 - 10.05 - Kuinka PAW tehdään kunnollisesti - myös cloud-only ympäristössä - Sami Laiho
-- ANA (Ask 🥷 Anything)
+- 11.00 - ANA (Ask 🥷 Anything)
 
 Ilmoittaudu ja tsekkaa tarkemmat tiedot [tapahtumasivulta](../tapahtumat/20241129/etatapahtuma-29112024)
