@@ -6,7 +6,7 @@ thumbnail-img:
 share-title: WPNinjasFI-etätapahtuma #5 matskut ja yhteenveto
 share-description: Täältä löydät 29.11. järjestetyn #WPninjasFI-live-tapahtuman jaettavat matkskut sekä yhteenvedon tilaisuudesta 🥷
 share-img: /assets/img/n1-color.png
-cover-img: /assets/img/wpninjas-live-24.10.2024-view.jpg
+cover-img: /assets/img/wpninjasfi-eta-tausta.png
 full-width: false
 --- 
 # Tapahtuman yhteenveto
