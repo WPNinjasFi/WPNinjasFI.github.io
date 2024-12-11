@@ -4,6 +4,16 @@ title: Tapahtumat
 subtitle: Etä- ja live-tapahtumat
 ---
 # Seuraavat tapahtumat
+## Etäsessio #6 - pe 20.12.2024 klo 09.00 - 11.15 
+**Aiheina mm.**
+- Vuoden 2024 tärkeimmät uutiset ja ajatukset tulevasta vuodesta 
+- Attack surface reduction rules: Parhaat käytännöt ja vianselvitys (Pavel)
+- Petrin Ultimate super troubleshooting tool: Mitä sillä tekee ja miten se toimii? (Petri)
+- Ask 🥷 Anything
+
+[Tapahtumasivulle](../tapahtumat/20241220/etatapahtuma-20122024)
+
+# Edelliset tapahtumat
 ## Etäsessio #5 - pe 29.11.2024 klo 09.00 - 11.15 
 **Aiheina mm.**
 - Microsoft Igniten tärkeimmät tuoteuutiset tuoreeltaan - WPNinjsaFI-taustaryhmä ja Mikko Lindström, Microsoft 
@@ -12,7 +22,6 @@ subtitle: Etä- ja live-tapahtumat
 
 [Tapahtumasivulle](../tapahtumat/20241129/etatapahtuma-29112024)
 
-# Edelliset tapahtumat
 ## Live-sessio #1 - to  24.10.2024 klo 10 alkaen
 **Paikka: Telia, Tripla, Pasila, Helsinki**<br/>
 **Alustava ohjelma**
