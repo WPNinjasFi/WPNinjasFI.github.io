@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WPNinjasFI-etätapahtuma
+title: WPNinjasFI-etätapahtuma 29.11. ilmoittautuminen
 subtitle: Perjantaina 29.11.2024 klo 09.00 - 11.15
 thumbnail-img: /assets/img/n1-color.png
 share-title: Seuraava WPNinjasFI-etätapahtuma 29.11. klo 9.00 alkaen
