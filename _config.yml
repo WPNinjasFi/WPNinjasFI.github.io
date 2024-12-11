@@ -58,13 +58,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
 email: "sensei@wpninjas.fi"
-  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
 facebook: "groups/wpninjasfi"
 github: "WPNinjasFI"
-  #twitter: daattali
-  #patreon: DeanAttali
-  #youtube: "@daattali"
-  #whatsapp: 15551212
+# twitter: daattali
+# patreon: DeanAttali
+# youtube: "@daattali"
+# whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
 linkedin: "company/wpninjasfi"
