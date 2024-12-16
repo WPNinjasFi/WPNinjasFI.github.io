@@ -19,3 +19,6 @@ Muistakaa kaikki, että yhteisön sisältä halutaan lisää puhujia. Mukaan vaa
 # Matskut
 - Lataa esitysten materiaalit [Tiedostoista](https://github.com/WPNinjasFi/Tiedostot/tree/main/Tapahtumat/20241129%20Et%C3%A4tapaaminen).
 - Samin PAW-esitys löytyy yhteisön [Youtube-kanavalta](https://www.youtube.com/@WorkplaceNinjaUserGroupFinland).
+
+# Seuraava tapahtuma
+[Ilmoittaudu mukaan](https://wpninjas.fi/tapahtumat/20241220/etatapahtuma-20122024/) perjantaina 20.12. järjestettävään seuraavaan etätapahtumaan.
