@@ -17,4 +17,5 @@ Palautekyselyssä Ingnite-recap-sessio sai arvosanakseen 4,3 tähteä viidestä 
 Muistakaa kaikki, että yhteisön sisältä halutaan lisää puhujia. Mukaan vaan matalalla kynnyksellä. Puheenvuoron kestolle ei ole mitään alarajaa, ja aiheet ja esitystapakin ovat varsin vapaasti valittavissa. Käy imoittautumassa puhujaksi [täältä](../puhujaksi)
 
 # Matskut
-Lataa esitysten materiaalit [tapahtumasivulta](../tapahtumat/20241129/etatapahtuma-29112024/).
+- Lataa esitysten materiaalit [Tiedostoista](https://github.com/WPNinjasFi/Tiedostot/tree/main/Tapahtumat/20241129%20Et%C3%A4tapaaminen).
+- Samin PAW-esitys löytyy yhteisön [Youtube-kanavalta](https://www.youtube.com/@WorkplaceNinjaUserGroupFinland).
