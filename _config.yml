@@ -24,11 +24,15 @@ navbar-links:
   Tiedostot: "https://github.com/WPNinjasFi/Tiedostot"
   Puhujaksi: "puhujaksi"
   Sponsoriksi: "sponsoriksi"
-  Facebook: "https://www.facebook.com//groups/wpninjasfi"
-  LinkedIn: "https://www.linkedin.com/company/101721216/"
-  Discord: "https://discord.gg/9pAAAVJv7N"
   Tietoa: "aboutus"
-  #Resources:
+    Some-kanavat:
+    - Discord: "https://discord.gg/9pAAAVJv7N"
+    - Facebook: "https://www.facebook.com//groups/wpninjasfi"
+    - LinkedIn: "https://www.linkedin.com/company/101721216/"
+  #Discord: "https://discord.gg/9pAAAVJv7N"
+  #Facebook: "https://www.facebook.com//groups/wpninjasfi"
+  #LinkedIn: "https://www.linkedin.com/company/101721216/"
+    #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
