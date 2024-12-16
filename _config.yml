@@ -26,9 +26,9 @@ navbar-links:
   Sponsoriksi: "sponsoriksi"
   Tietoa: "aboutus"
     Some-kanavat:
-    - Discord: "https://discord.gg/9pAAAVJv7N"
-    - Facebook: "https://www.facebook.com//groups/wpninjasfi"
-    - LinkedIn: "https://www.linkedin.com/company/101721216/"
+  - Discord: "https://discord.gg/9pAAAVJv7N"
+  - Facebook: "https://www.facebook.com//groups/wpninjasfi"
+  - LinkedIn: "https://www.linkedin.com/company/101721216/"
   # Discord: "https://discord.gg/9pAAAVJv7N"
   # Facebook: "https://www.facebook.com//groups/wpninjasfi"
   # LinkedIn: "https://www.linkedin.com/company/101721216/"
