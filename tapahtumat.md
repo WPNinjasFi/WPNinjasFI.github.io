@@ -4,6 +4,15 @@ title: Tapahtumat
 subtitle: Etä- ja live-tapahtumat
 ---
 # Seuraavat tapahtumat
+## Etäsessio #7 - pe 30.1.2025 klo 09.00 - 11.15 
+**Aiheina mm.**
+- Ajankohtaiset WPNinjasFi-asiat
+- Defender for Endpoint päätelaitehallinnan näkökulmasta (Aku Suonpää)
+- Parhaat nimeämiskäytännöt Intunessa (Valtteri Aho)
+- Ask 🥷 Anything
+
+[Tapahtumasivulle](../tapahtumat/20250131/etatapahtuma-31012025)
+
 ## Etäsessio #6 - pe 20.12.2024 klo 09.00 - 11.15 
 **Aiheina mm.**
 - Vuoden 2024 tärkeimmät uutiset ja ajatukset tulevasta vuodesta 
