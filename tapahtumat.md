@@ -4,6 +4,16 @@ title: Tapahtumat
 subtitle: Etä- ja live-tapahtumat
 ---
 # Seuraavat tapahtumat
+## Etäsessio #8 - pe 28.2.2025 klo 09.00 - 11.15 
+**Aiheina mm.**
+- Ajankohtaiset WPNinjasFi-asiat
+- Microsoft 365 Copilot from IT-admins perspective (Kent Agerlund & Morten Nilsen)
+- Microsoft Security Copilot (Jussi Roine)
+- Ask 🥷 Anything
+
+[Tapahtumasivulle](https://events.teams.microsoft.com/event/c0439e27-b338-4010-8936-862794edb76e@84dc9e35-ee96-4291-9726-fad8009fb935)
+
+# Edelliset tapahtumat
 ## Etäsessio #7 - pe 30.1.2025 klo 09.00 - 11.15 
 **Aiheina mm.**
 - Ajankohtaiset WPNinjasFi-asiat
@@ -22,7 +32,6 @@ subtitle: Etä- ja live-tapahtumat
 
 [Tapahtumasivulle](../tapahtumat/20241220/etatapahtuma-20122024)
 
-# Edelliset tapahtumat
 ## Etäsessio #5 - pe 29.11.2024 klo 09.00 - 11.15 
 **Aiheina mm.**
 - Microsoft Igniten tärkeimmät tuoteuutiset tuoreeltaan - WPNinjsaFI-taustaryhmä ja Mikko Lindström, Microsoft 
