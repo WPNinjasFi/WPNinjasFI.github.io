@@ -4,6 +4,16 @@ title: Tapahtumat
 subtitle: Etä- ja live-tapahtumat
 ---
 # Seuraavat tapahtumat
+## Live-sessio #2 - WPNinjasFI & JySec -livetapahtuma ja Digiturvallisuusmessut Jyväskylässä - to 10.4.2025 
+**Aiheina mm.**
+- 9-17 Digiturvallisuusmessut
+- 18-19 WPNinjasFI-puheenvuoro: 11 tapaa sössiä Windowsin tietoturva
+- 19-20 JySecin puheenvuoro: TBA
+- 20-> Virvokkeita, purtavaa, hyvää seuraa
+
+[Tapahtumasivulle](https://events.teams.microsoft.com/event/acb566cb-f043-49ca-a56d-dfcee62c5687@84dc9e35-ee96-4291-9726-fad8009fb935)
+
+# Edelliset tapahtumat
 ## Etäsessio #8 - pe 28.2.2025 klo 09.00 - 11.15 
 **Aiheina mm.**
 - Ajankohtaiset WPNinjasFi-asiat
@@ -13,7 +23,6 @@ subtitle: Etä- ja live-tapahtumat
 
 [Tapahtumasivulle](https://events.teams.microsoft.com/event/c0439e27-b338-4010-8936-862794edb76e@84dc9e35-ee96-4291-9726-fad8009fb935)
 
-# Edelliset tapahtumat
 ## Etäsessio #7 - pe 30.1.2025 klo 09.00 - 11.15 
 **Aiheina mm.**
 - Ajankohtaiset WPNinjasFi-asiat
