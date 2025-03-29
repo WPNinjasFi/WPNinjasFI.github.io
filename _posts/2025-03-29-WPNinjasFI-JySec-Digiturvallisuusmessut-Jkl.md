@@ -11,7 +11,7 @@ share-img: /assets/img/wpninjasfi-live.png
 # Tapahtuman sisältö
 - 9-17 Digiturvallisuusmessut (Paviljonki)
   - 9.45 Samin 1. puheenvuoro
-  - 10.00 Samin ja Kimmo Rouskus fireside-jutustelu
+  - 10.00 Samin ja Kimmo Rouskun fireside-jutustelu
   - 11.30 WPNinjasFI-yhteisön toiminnan esittely
   - 12.00 Mahdollinen omakustanteinen kimppalounas
   - 15.45 Samin 2. puheenvuoro
