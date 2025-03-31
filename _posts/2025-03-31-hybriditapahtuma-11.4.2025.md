@@ -10,7 +10,7 @@ share-img: /assets/img/wpninjasfi-live.png
 --- 
 # Tapahtuman sisältö
 - Ajankohtaiset WPNinjasFi-asiat
-⁠- Päätelaitehallinnan uudet tuulet kevät 2025 (WPNinjasFI-taustatiimiläiset)
+- Päätelaitehallinnan uudet tuulet kevät 2025 (WPNinjasFI-taustatiimiläiset)
   - Windows LAPS
   - Hotpatch
   - Multi Device Query (ja Enhanced inventory)
