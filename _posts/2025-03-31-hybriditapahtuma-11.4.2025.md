@@ -15,7 +15,7 @@ share-img: /assets/img/wpninjasfi-live.png
   - Hotpatch
   - Multi Device Query (ja Enhanced inventory)
   - Intel is back in the game with AI PCs?!?
-  - Yms.
+  - Yms
 ⁠- Skriptaa itsesi universumin valtijaksi AI:n avulla - (Henri Perämäki, Elisa & Petri Paavola, WPNinjaFI)
 - Ask 🥷 Anything
 
