@@ -4,6 +4,15 @@ title: Tapahtumat
 subtitle: Etä- ja live-tapahtumat
 ---
 # Seuraavat tapahtumat
+## Hybridi-/etätapahtuma #9 (Jyväskylässä) - pe 11.4.2025 klo 09.00 - 11.15
+**Aiheina mm.**
+- Ajankohtaiset WPNinjasFi-asiat
+- ⁠Päätelaitehallinnan uudet tuulet kevät 2025 (WPNinjasFI-taustatiimiläiset)
+⁠- Skriptaa itsesi universumin valtijaksi AI:n avulla - (Henri Perämäki, Elisa & Petri Paavola, WPNinjaFI)
+- Ask 🥷 Anything
+
+[Tapahtumasivulle](https://events.teams.microsoft.com/event/43caea59-6528-4f95-ab97-10e2be742ccd@84dc9e35-ee96-4291-9726-fad8009fb935)
+
 ## Live-sessio #2 - WPNinjasFI & JySec -livetapahtuma ja Digiturvallisuusmessut Jyväskylässä - to 10.4.2025 
 **Aiheina mm.**
 - 9-17 Digiturvallisuusmessut
