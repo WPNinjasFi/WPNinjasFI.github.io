@@ -11,6 +11,11 @@ share-img: /assets/img/wpninjasfi-live.png
 # Tapahtuman sisältö
 - Ajankohtaiset WPNinjasFi-asiat
 ⁠- Päätelaitehallinnan uudet tuulet kevät 2025 (WPNinjasFI-taustatiimiläiset)
+ - Windows LAPS
+ - Hotpatch
+ - Multi Device Query (ja Enhanced inventory)
+ - Intel is back in the game with AI PCs?!?
+ - Yms.
 ⁠- Skriptaa itsesi universumin valtijaksi AI:n avulla - (Henri Perämäki, Elisa & Petri Paavola, WPNinjaFI)
 - Ask 🥷 Anything
 
