@@ -16,7 +16,8 @@ share-img: /assets/img/wpninjasfi-live.png
   - Multi Device Query (ja Enhanced inventory)
   - Intel is back in the game with AI PCs?!?
   - Yms
-⁠- Skriptaa itsesi universumin valtijaksi AI:n avulla - (Henri Perämäki, Elisa & Petri Paavola, WPNinjaFI)
+⁠-
+- Skriptaa itsesi universumin valtijaksi AI:n avulla - (Henri Perämäki, Elisa & Petri Paavola, WPNinjaFI)
 - Ask 🥷 Anything
 
 Ilmoittautumislinkin löydät [tapahtumasivulta](../tapahtumat)
