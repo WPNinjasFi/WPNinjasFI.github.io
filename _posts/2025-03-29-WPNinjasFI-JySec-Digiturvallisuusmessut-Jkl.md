@@ -18,7 +18,7 @@ share-img: /assets/img/wpninjasfi-live.png
 
 - 18-20 WPNinjasFI & JySec -livetapahtuma (Crazy Town)
   - 18-19 WPNinjasFI-puheenvuoro: 11 tapaa sössiä Windowsin tietoturva
-  - 19-20: JySecin puheenvuoro: TBA
+  - 19-20: JySecin puheenvuoro: Having fun with Ghidra's P-code
   - 20->: Virvokkeita, purtavaa, hyvää seuraa
 
 Ilmoittautumislinkin löydät [tapahtumasivulta](../tapahtumat)
