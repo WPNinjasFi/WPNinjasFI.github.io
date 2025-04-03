@@ -17,7 +17,7 @@ subtitle: Etä- ja live-tapahtumat
 **Aiheina mm.**
 - 9-17 Digiturvallisuusmessut
 - 18-19 WPNinjasFI-puheenvuoro: 11 tapaa sössiä Windowsin tietoturva
-- 19-20 JySecin puheenvuoro: TBA
+- 19-20 JySecin puheenvuoro: Having fun with Ghidra's P-code
 - 20-> Virvokkeita, purtavaa, hyvää seuraa
 
 [Tapahtumasivulle](https://events.teams.microsoft.com/event/acb566cb-f043-49ca-a56d-dfcee62c5687@84dc9e35-ee96-4291-9726-fad8009fb935)
