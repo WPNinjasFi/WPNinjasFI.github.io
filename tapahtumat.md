@@ -4,6 +4,29 @@ title: Tapahtumat
 subtitle: Etä- ja live-tapahtumat
 ---
 # Seuraavat tapahtumat
+## Live-sessio #3 - to 22.5.2025 klo 10.00 alkaen
+**Paikka: Ilmalanlinna HUB, Ilmala, Helsinki**
+**Alustava ohjelma**
+- 09.45-10.00 Rekisteröityminen​
+- 10.00-10.10 Kahvia​
+- 10.10-10.20 Tilaisuuden avaus​
+- 10.20-10.40 Sponsoripuheenvuoro ​
+- 10.40-11.10 Intune Best Practises: Kohdistukset, filtterit, nimeämiskäytännöt, jne. (Pavel Mirochnitchenko)​
+- 11.10-11.20 Tauko​
+- 11.20-11.50 Windows Autopatch: Kannattaako vai ei? ​(Pavel Mirochnitchenko)​
+- 11.50-12.50 Lounasta, kahvia ja verkostoitumista​
+- 12.50-13.50 Vapaamuotoinen kysely- ja keskustelusessio​
+- 13.50-14.00 Tauko​
+- 14.00-14.50 Turvalliset yhteydet päätelaitteille Global Secure Accessin avulla (Jami Susijärvi)​
+- 14.50-15.00 Tauko​
+- 15.00-15.20 Sponsoripuheenvuoro​
+- 15.20-16.20 Yhteisön toiveaihe​
+- 16.20-17.00 Tauko​
+- 17.00-20.00 Päivällinen, palkinnot, virvokkeita, verkostoitumista​
+
+[Tapahtumasivulle](https://events.teams.microsoft.com/event/d9437650-019f-4d5d-91ca-e90ef1fe1ab6@84dc9e35-ee96-4291-9726-fad8009fb935)
+
+# Edelliset tapahtumat
 ## Hybridi-/etätapahtuma #9 (Jyväskylässä) - pe 11.4.2025 klo 09.00 - 11.15
 **Aiheina mm.**
 - Ajankohtaiset WPNinjasFi-asiat
@@ -22,7 +45,6 @@ subtitle: Etä- ja live-tapahtumat
 
 [Tapahtumasivulle](https://events.teams.microsoft.com/event/acb566cb-f043-49ca-a56d-dfcee62c5687@84dc9e35-ee96-4291-9726-fad8009fb935)
 
-# Edelliset tapahtumat
 ## Etäsessio #8 - pe 28.2.2025 klo 09.00 - 11.15 
 **Aiheina mm.**
 - Ajankohtaiset WPNinjasFi-asiat
