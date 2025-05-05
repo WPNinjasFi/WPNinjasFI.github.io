@@ -5,8 +5,8 @@ subtitle: Etä- ja live-tapahtumat
 ---
 # Seuraavat tapahtumat
 ## Live-sessio #3 - to 22.5.2025 klo 10.00 alkaen
-**Paikka: Ilmalanlinna HUB, Ilmala, Helsinki
-Alustava ohjelma**
+**Paikka: Ilmalanlinna HUB, Ilmala, Helsinki**<br/>
+**Alustava ohjelma**
 
 - 09.45-10.00 Rekisteröityminen​
 - 10.00-10.10 Kahvia​
