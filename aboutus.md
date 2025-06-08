@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workplace Ninja User Group Finlandin taustatiimi
+title: Tietoa Workplace Ninja User Group Finlandin toiminnasta
 subtitle: Windows- ja päätelaitehallinnan käyttäjäryhmä Suomen IT-ammattilaisille
 ---
 # Käyttäjäryhmän tarkoitus
