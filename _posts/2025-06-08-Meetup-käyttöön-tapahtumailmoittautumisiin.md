@@ -8,7 +8,7 @@ share-description: Tehostetaan yhteisön tapahtumailmoittautumisia ja viestintä
 cover-img: /assets/img/wpninjasfi-live.png
 share-img: /assets/img/wpninjasfi-live.png
 --- 
-22.5. järjestetyn live-tapahtuman keskustelujen perusteella otetaan portaittain <a href="https://www.meetup.com/wpninjasfi/" target="_new">Meetup.com</a> käyttöön yhteisön tapahtumailmoittautumisia sekä tapahtumaviestintää varten. 
+22.5. järjestetyn live-tapahtuman keskustelujen perusteella otetaan <a href="https://www.meetup.com/wpninjasfi/" target="_new">Meetup.com</a> käyttöön yhteisön tapahtumailmoittautumisia sekä tapahtumaviestintää varten. 
 
 Näin saamme käyttöömme kanavan, jonka kautta uusista tapahtumista saadaan varmasti viesti kaikille hashtag#WPNinjaFI-tyypeille. 
 
