@@ -22,5 +22,5 @@ Pahoittelemme ylimääräistä vaivaa, mutta lopputuloksena saadaan kaikkia pare
 
 Käykää kaikki jo liittymässä mukaan WPNinjas-FI-Meetup-ryhmään <a href="https://www.meetup.com/wpninjasfi/" target="_new">täältä</a> ja rekisteröitymässä myös <a href="https://wpninjas.fi/2025-06-07-Et%C3%A4tapahtuma-13.6.2025/">kesäkuun tapahtumaan</a>.
 
-Terveisin
-WPNinjasFI-taustatiimin porukka
+Terveisin,
+WPNinjasFI-taustatiimi
