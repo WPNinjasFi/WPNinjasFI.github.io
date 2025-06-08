@@ -3,7 +3,10 @@ layout: page
 title: Tapahtumat
 subtitle: Etä- ja live-tapahtumat
 ---
-# Seuraavat tapahtumat
+# Tulevat tapahtumat
+Tulevat tapahtumat löydät <a href="https://www.meetup.com/wpninjasfi/" target="_new">Meetup.com-ryhmästämme</a>.
+
+# Menneet tapahtumat
 ## Live-sessio #3 - to 22.5.2025 klo 10.00 alkaen
 **Paikka: Ilmalanlinna HUB, Ilmala, Helsinki**<br/>
 **Alustava ohjelma:**
@@ -27,7 +30,6 @@ subtitle: Etä- ja live-tapahtumat
 
 [Tapahtumasivulle](https://events.teams.microsoft.com/event/d9437650-019f-4d5d-91ca-e90ef1fe1ab6@84dc9e35-ee96-4291-9726-fad8009fb935)
 
-# Edelliset tapahtumat
 ## Hybridi-/etätapahtuma #9 (Jyväskylässä) - pe 11.4.2025 klo 09.00 - 11.15
 **Aiheina mm.**
 - Ajankohtaiset WPNinjasFi-asiat
