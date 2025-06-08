@@ -20,7 +20,9 @@ author: Workplace Ninja User Group Finland
 ###############################################
 
 navbar-links:
-  Tapahtumat: "tapahtumat"
+  Tapahtumat: 
+    - Meetup: "https://www.meetup.com/wpninjasfi/"
+    - Arkisto: "tapahtumat"
   Tiedostot: "https://github.com/WPNinjasFi/Tiedostot"
   Puhujaksi: "puhujaksi"
   Sponsoriksi: "sponsoriksi"
