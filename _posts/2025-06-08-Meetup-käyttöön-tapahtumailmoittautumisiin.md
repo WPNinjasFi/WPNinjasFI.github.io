@@ -1,9 +1,9 @@
 ---
 layout: post
-title: WPninjasFI ottaa Meetup.com käyttöön
+title: WPninjasFI ottaa Meetup.comin käyttöön
 subtitle: Tehostetaan yhteisön tapahtumailmoittautumisia ja viestintää
 thumbnail-img: /assets/img/n1-color.png
-share-title: WPninjasFI ottaa Meetup.com käyttöön
+share-title: WPninjasFI ottaa Meetup.comin käyttöön
 share-description: Tehostetaan yhteisön tapahtumailmoittautumisia ja viestintää
 cover-img: /assets/img/wpninjasfi-live.png
 share-img: /assets/img/wpninjasfi-live.png
