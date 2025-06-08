@@ -16,7 +16,7 @@ Lisäksi Meetup.com helpottaa tapahtumiin liittyvää viestintää - ilman että
 
 Kun Meetup.com saadaan syksyllä täysimittaiseen käyttöön, voidaan myös Teams webinaarien rekisteröityminen jättää pois. 
 
-<a href="https://wpninjas.fi/2025-06-07-Et%C3%A4tapahtuma-13.6.2025/">Kesäkuun 13. päivän tapahtuman</a> osalta meille aiheutuu kuitenkin pikkaisen ylimääräistä vaivaa, kun ilmoittautuminen tehdään Meetup.comin kautta, jonka jälkeen pitää Meetupin event linkin kautta tehdä vielä rekister;ityä Teams webinaarin. 
+<a href="https://wpninjas.fi/2025-06-07-Et%C3%A4tapahtuma-13.6.2025/">Kesäkuun 13. päivän tapahtuman</a> osalta meille aiheutuu kuitenkin pikkaisen ylimääräistä vaivaa, kun ilmoittautuminen tehdään Meetup.comin kautta, jonka jälkeen pitää Meetupin event linkin kautta vielä rekisteröityä Teams-webinaarin. 
 
 Pahoittelemme ylimääräistä vaivaa, mutta lopputuloksena saadaan kaikkia paremmin palveleva alusta tapahtumailmoittautumisia ja viestintää varten. 
 
