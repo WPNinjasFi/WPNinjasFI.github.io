@@ -10,7 +10,7 @@ share-img: /assets/img/wpninjasfi-live.png
 --- 
 22.5. järjestetyn live-tapahtuman keskustelujen perusteella otetaan <a href="https://www.meetup.com/wpninjasfi/" target="_new">Meetup.com</a> käyttöön yhteisön tapahtumailmoittautumisia sekä tapahtumaviestintää varten. 
 
-Näin saamme käyttöömme kanavan, jonka kautta uusista tapahtumista saadaan varmasti viesti kaikille hashtag#WPNinjaFI-tyypeille. 
+Näin saamme käyttöömme kanavan, jonka kautta uusista tapahtumista saadaan varmasti viesti kaikille WPNinjaFI-yhteisön jäsenille. 
 
 Lisäksi Meetup.com helpottaa tapahtumiin liittyvää viestintää - ilman että tarvitsee erikseen kerätä sähköpostiosoitteita tms. mihinkään epämääräisiin Exceleihin tms. Ollaan siis myös tietosuoja-asialla. 
 
