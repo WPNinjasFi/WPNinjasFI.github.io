@@ -26,6 +26,7 @@ navbar-links:
   Sponsoriksi: "sponsoriksi"
   Tietoa: "aboutus"
   Some-kanavat:
+    - Meetup: "https://www.meetup.com/wpninjasfi/"
     - Discord: "https://discord.gg/9pAAAVJv7N"
     - Facebook: "https://www.facebook.com//groups/wpninjasfi"
     - LinkedIn: "https://www.linkedin.com/company/101721216/"
@@ -63,12 +64,12 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "sensei@wpninjas.fi"
-  facebook: "groups/wpninjasfi"
-  github: "WPNinjasFI"
-  linkedin: "company/wpninjasfi"
-  discord: "9pAAAVJv7N" 
+  discord: "9pAAAVJv7N"
+  linkedin: "company/wpninjasfi"  
   youtube: "@WorkplaceNinjaUserGroupFinland"
+  facebook: "groups/wpninjasfi"
+  email: "sensei@wpninjas.fi"
+  github: "WPNinjasFI"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # twitter: daattali
 # patreon: DeanAttali
