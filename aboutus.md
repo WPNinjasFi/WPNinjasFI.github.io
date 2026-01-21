@@ -12,10 +12,10 @@ Yhteisömme tarkoituksena on auttaa jäseniä pysymään ajan tasalla teknologio
 
 # Tiimi käyttäjäryhmän takana
 - Mikko Järvinen
-- [Sami Laiho, Microsoft MVP](sami_laiho.md)
-- [Pavel Mirochnitchenko, Microsoft MVP](pavel_mirochnitchenko.md)
-- [Petri Paavola, Microsoft MVP](petri_paavola.md)
+- [Sami Laiho](sami_laiho.md), Microsoft MVP
+- [Pavel Mirochnitchenko](pavel_mirochnitchenko.md), Microsoft MVP
+- [Petri Paavola](petri_paavola.md), Microsoft MVP
 - [Kimmo Pitkänen](kimmo_pitkanen.md)
-- [Panu Saukko, Microsoft MVP](panu_saukko.md)
+- [Panu Saukko](panu_saukko.md), Microsoft MVP
 - [Teemu Tiainen](teemu_tiainen.md)
 
