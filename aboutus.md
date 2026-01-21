@@ -11,10 +11,11 @@ Tarjoamme jäsenillemme tapahtumia ja mahdollisuuksia verkostoitua muiden alan a
 Yhteisömme tarkoituksena on auttaa jäseniä pysymään ajan tasalla teknologioiden kehittyessä vauhdilla ja syventämään ymmärrystä moderneista päätelaitehallinnan ratkaisuista sekä siihen liittyvistä teknologioista.
 
 # Tiimi käyttäjäryhmän takana
-- [Petri Paavola, Microsoft MVP](petri_paavola.md)
-- [Panu Saukko, Microsoft MVP](panu_saukko.md)
+- Mikko Järvinen
 - [Sami Laiho, Microsoft MVP](sami_laiho.md)
 - [Pavel Mirochnitchenko, Microsoft MVP](pavel_mirochnitchenko.md)
-- Mikko Järvinen
-- [Teemu Tiainen](teemu_tiainen.md)
+- [Petri Paavola, Microsoft MVP](petri_paavola.md)
 - [Kimmo Pitkänen](kimmo_pitkanen.md)
+- [Panu Saukko, Microsoft MVP](panu_saukko.md)
+- [Teemu Tiainen](teemu_tiainen.md)
+
